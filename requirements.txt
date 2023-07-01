@@ -1,0 +1,11 @@
+atoma==0.0.17
+attrs==23.1.0
+beautifulsoup4==4.12.2
+defusedxml==0.7.1
+markdownify==0.11.6
+pip==23.0.1
+python-dateutil==2.8.2
+setuptools==67.6.1
+six==1.16.0
+soupsieve==2.4.1
+wheel==0.40.0

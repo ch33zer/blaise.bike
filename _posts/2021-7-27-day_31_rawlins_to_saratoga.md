@@ -5,24 +5,24 @@ date: 2021-07-27 20:55:00-07:00
 categories: touring
 ---
 Short day today, but very pleasant. I left around 8, checking out of the motel. I rode through a confusing freeway onramp system to get to a smaller frontage road for a few miles, passing a large train that was rolling into town. I think it's one of the first active trains I've seen on the trip; most of the railroads I've passed are no longer used. 
-[![](https://lh3.googleusercontent.com/-eEQMcUCRa60/YQDVJjcn9_I/AAAAAAAAVZI/lvSJaN8LmKsctLBx_p8NhAgCW3X4qKxvQCLcBGAsYHQ/s1600/1627444512155413-0.png)](https://lh3.googleusercontent.com/-eEQMcUCRa60/YQDVJjcn9_I/AAAAAAAAVZI/lvSJaN8LmKsctLBx_p8NhAgCW3X4qKxvQCLcBGAsYHQ/s1600/1627444512155413-0.png)
+[![](/assets/1627444512155413-0.png)](/assets/1627444512155413-0.png)
   
 A few miles later I saw a town that looked like it was full of trees. Getting closer those were instead gas pipes. I looked at the map and this was the town of Sinclair, as in Sinclair gas, the company with the green dinosaur mascot. I've seen them throughout Wyoming and now I guess I understand why. Their refinery was huge. I've always loved the steampunk look of the pipes in fuel refineries. 
-[![](https://lh3.googleusercontent.com/-JUOpzIibFGs/YQDVHvey1eI/AAAAAAAAVZE/Di4OUwIWauo5VKlYdjV6no_pYvyZb7XTgCLcBGAsYHQ/s1600/1627444504611806-1.png)](https://lh3.googleusercontent.com/-JUOpzIibFGs/YQDVHvey1eI/AAAAAAAAVZE/Di4OUwIWauo5VKlYdjV6no_pYvyZb7XTgCLcBGAsYHQ/s1600/1627444504611806-1.png)
+[![](/assets/1627444504611806-1.png)](/assets/1627444504611806-1.png)
 
-[![](https://lh3.googleusercontent.com/-li7YHOXKwO0/YQDVF5fIDcI/AAAAAAAAVZA/uiCpDv4CIX4sHRSiHDlhfQFv4JPjt00xgCLcBGAsYHQ/s1600/1627444494610567-2.png)](https://lh3.googleusercontent.com/-li7YHOXKwO0/YQDVF5fIDcI/AAAAAAAAVZA/uiCpDv4CIX4sHRSiHDlhfQFv4JPjt00xgCLcBGAsYHQ/s1600/1627444494610567-2.png)
+[![](/assets/1627444494610567-2.png)](/assets/1627444494610567-2.png)
   
 Just down the road was a freeway onramp which the route had me taking. Unfortunately the freeway was under active maintenance, and both lanes of traffic were using a single side of the split interstate while the other was being resurfaced.
-[![](https://lh3.googleusercontent.com/-N2s29nuAJ1g/YQDVDIt-cUI/AAAAAAAAVY8/WQlzGV7LiBIOexAI9pT9-sVb33BwdXiuACLcBGAsYHQ/s1600/1627444484573395-3.png)](https://lh3.googleusercontent.com/-N2s29nuAJ1g/YQDVDIt-cUI/AAAAAAAAVY8/WQlzGV7LiBIOexAI9pT9-sVb33BwdXiuACLcBGAsYHQ/s1600/1627444484573395-3.png)
+[![](/assets/1627444484573395-3.png)](/assets/1627444484573395-3.png)
   
 It looked suicidal to ride where the cars were so I went and flagged down some of the personnel. They told me to just ride on the side of the road being worked on. I thanked them, then rode down a bumpy onramp onto the flat newly paved surface. It felt amazing and smooth.
-[![](https://lh3.googleusercontent.com/-LatZkKsQQuU/YQDVA-mvsxI/AAAAAAAAVY4/q-0zywC-l0sjJ23rK3WKlwJDSdAbqCjHwCLcBGAsYHQ/s1600/1627444476865159-4.png)](https://lh3.googleusercontent.com/-LatZkKsQQuU/YQDVA-mvsxI/AAAAAAAAVY4/q-0zywC-l0sjJ23rK3WKlwJDSdAbqCjHwCLcBGAsYHQ/s1600/1627444476865159-4.png)
+[![](/assets/1627444476865159-4.png)](/assets/1627444476865159-4.png)
   
 There were two issues: large construction trucks were barrelling along at 40+ mph going the opposite way and kicking up dust and rocks, and sometimes those trucks would be on my side of the road instead of the unpaved part, due to a vehicle in the way. I just took it slow and got off and stopped for any oncoming trucks. This section was about 5 miles long. Towards the end there were more workers and they were all very friendly and waved me on. I rode down an opposing onramp and with that was through the construction. I had to ride on the interstate for another 6 miles or so before getting off. The trucks were mostly very respectful, giving me lots of room and soon enough I completed this part of the ride which I'd been stressing about.   
 I joined a small county road for the rest of the ride it was long and flat through hazy low lying hills, like much of the previous few days have been
-[![](https://lh3.googleusercontent.com/-hqHv6gS-dz8/YQDU-jNK5rI/AAAAAAAAVY0/IhHNjZHCAbgwU-cP_mIgNjTYleG43MyrQCLcBGAsYHQ/s1600/1627444466705202-5.png)](https://lh3.googleusercontent.com/-hqHv6gS-dz8/YQDU-jNK5rI/AAAAAAAAVY0/IhHNjZHCAbgwU-cP_mIgNjTYleG43MyrQCLcBGAsYHQ/s1600/1627444466705202-5.png)
+[![](/assets/1627444466705202-5.png)](/assets/1627444466705202-5.png)
 
-[![](https://lh3.googleusercontent.com/-xtwk0zEL118/YQDU8IOC26I/AAAAAAAAVYw/mkJxfO_JURw3bltnruyjmW9E5JijkzXKQCLcBGAsYHQ/s1600/1627444457866269-6.png)](https://lh3.googleusercontent.com/-xtwk0zEL118/YQDU8IOC26I/AAAAAAAAVYw/mkJxfO_JURw3bltnruyjmW9E5JijkzXKQCLcBGAsYHQ/s1600/1627444457866269-6.png)
+[![](/assets/1627444457866269-6.png)](/assets/1627444457866269-6.png)
   
 I saw a herd of deer like animals, perhaps pronghorns, speeding through the plains at what must have been 40 mph. It was really cool to see, but they were much too fast for me to get a photo.  
 I ran into a duo headed west from New Jersey. They told me about the hot springs in Saratoga coming up. I am kicking myself because I didn't tell them about the upcoming construction. I hope they made it ok. We said goodbye and I had only a few miles into Saratoga where I had my warmshowers for the night.   

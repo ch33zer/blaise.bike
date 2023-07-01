@@ -4,8 +4,29 @@ import os
 import sys
 import attr
 from datetime import datetime
-from markdownify import markdownify as md
+from markdownify import MarkdownConverter
+import re
 
+pattern = r'(?:https?://)?.*googleusercontent.com.*/([^/]+)'
+repl = r'/assets/\1'
+class ImageLocalifier(MarkdownConverter):
+    def regex_guc(self, el, tagname):
+        print('el before', tagname, el)
+        tag_val = el[tagname]
+        print(tag_val)
+        if "googleusercontent.com" not in tag_val:
+            return
+        el[tagname] = re.sub(pattern, repl, tag_val)
+        print('el after', tagname, el)
+    def convert_img(self, el, text, convert_as_inline):
+        self.regex_guc(el, 'src')
+        return super().convert_img(el, text, convert_as_inline)
+    def convert_a(self, el, text, convert_as_inline):
+        self.regex_guc(el, 'href')
+        return super().convert_a(el, text, convert_as_inline)
+
+def md(html, **options):
+    return ImageLocalifier(**options).convert(html)
 
 FILENAME = "/Users/blaise/Downloads/blog-06-30-2023.xml"
 TAG="touring"
@@ -20,15 +41,12 @@ class MdPosts:
     content: str = attr.ib()
 
 md_posts = []
-print(entries[53])
-print(entries[-1])
 for entry in entries:
     if 'http://schemas.google.com/blogger/2008/kind#post' not in [cat.term for cat in entry.categories]:
         print("Skipping id", entry.id_)
         continue
     print("Handling id", entry.id_)
     md_posts.append(MdPosts(entry.title.value, entry.published if entry.published else entry.updated, entry.content.value))
-print(md_posts[-1])
 print(f"Found {len(md_posts)} posts")
 
 directory = "converted"
