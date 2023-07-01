@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 18: Rest Day in Missoula"
+date: 2021-07-15 13:05:00-07:00
+categories: touring
+---
+I'm taking a rest day today to relax and give my body time to recover. I bought some new tires and tubes, a new water bottle cage and bottle, a rearview mirror for my helmet, and an ACA jersey. I got a new power block that lets me charge 3 devices at once (high speed too!). Also, some bearspray for the upcoming adventure through Yellowstone.  
+Most of this shopping was done at the Adventure Cycling Association headquarters here in Missoula. All the staff were so friendly and it made me really happy that I was using their maps and supporting them. I also learned that there's a massive fire making the next section of my route impassible. I spent several hours talking with the staff and other cyclists that showed up about the best options. I think that I'm going to go around the fire to the north. This unfortunately means riding alongside highway 90 for a while, and actually on 90 for 20 miles, but the rest of the route should be very pleasant, and hopefully not too out of the way.   
+While at ACA headquarters who should roll up but Kristin and Andy. They'd stayed in Lolo the night before and were gonna push on. They were stopping at HQ to get updated information about the fire. We discussed options then got some lunch at a wonderful little Brazilian restaurant. They headed out due to time constraints along 90. They texted me later that day saying it was fine riding.  
+While I lounged around at the restaurant drinking the cucumber soda (delicious) a cyclist walked by, locked up her loaded touring bike and came in. I said hello and invited her to join me. She did and told me her name was Nancy and that she was doing the same route as me. However, she was retired and stopping along the way to have side adventures, like white water rafting. We sat and chatted for a while. Turns out she was staying at motel 6 that night too. We exchanged numbers then said goodbye.  
+I went to REI and Nancy happened to be nearby too. We met up and went to a steakhouse/habachi place for dinner. It was awesome. Afterwards I headed back to the motel, did some laundry, packed up for the next day and went to bed. See you tomorrow!
