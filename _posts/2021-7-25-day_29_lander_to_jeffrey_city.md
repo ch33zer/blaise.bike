@@ -48,33 +48,20 @@ We chatted, then they went to the cafe I'd just come from for dinner. I showered
 [![]({{ site.baseurl }}/assets/1627349472902751-0.png)]({{ site.baseurl }}/assets/1627349472902751-0.png)
 I'm finishing typing up this second version of this post now, then am gonna head to bed. Night!
 
-  
-
 
 Distance: 60ish
 
 Consumption:
-
-Toast
-
-Eggs
-
-Tea
-
-Cinnamon roll
-
-Cliff bar
-
-Pb&j tortilla
-
-Dates
-
-Turkey sticks
-
-Chicken fried steak
-
-Bread
-
-Baked potato
+- Toast
+- Eggs
+- Tea
+- Cinnamon roll
+- Cliff bar
+- Pb&j tortilla
+- Dates
+- Turkey sticks
+- Chicken fried steak
+- Bread
+- Baked potato
 
 

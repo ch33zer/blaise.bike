@@ -55,4 +55,22 @@ After that I went back and booked a nice hotel for the next two days and waited 
 [![]({{ site.baseurl }}/assets/1630466424942472-1.png)]({{ site.baseurl }}/assets/1630466424942472-1.png)
   
 It's just a Hampton Inn but they've done a good job. The house the lobby is in was built in 1850. I got checked in then took a shower and rested for a bit. The rain started around this time, relatively light at first but getting more intense as the day closed. I got some pizza and some groceries for tomorrow. If I don't have to leave the room that would be fine with me. I'm gonna watch a movie then head to bed. Night!  
-Distance: 40ishConsumption:Naked juicePoptartsBelvita3x coffee cake bitesSmoothiePeanutsKombuchaPeace teaChai teaCinnamon bunGelatoPizzaCheese sticksMilk duds
+
+
+Distance: 40ish
+
+Consumption:
+- Naked juice
+- Poptarts
+- Belvita
+- 3x coffee cake bites
+- Smoothie
+- Peanuts
+- Kombucha
+- Peace tea
+- Chai tea
+- Cinnamon bun
+- Gelato
+- Pizza
+- Cheese sticks
+- Milk duds

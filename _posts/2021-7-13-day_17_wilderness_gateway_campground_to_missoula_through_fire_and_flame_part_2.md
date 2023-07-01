@@ -60,4 +60,24 @@ I kept riding and eventually made it into town. I spent some time wandering arou
 About the Brooks seat: it's wonderful! Through this 170+ mile adventure in the last 2 days my saddle sores are basically gone. I get some amount of chafing but I think that's just part of riding lots, can't avoid it.  
 This really has been the most adventure filled few days of the trip. Despite the confusion, fear, and danger, I had a wonderful time and navigated it well I think. I feel more confident that if I can make it through this I can make it through anything else the trip can throw at me.  
 PS: I got a text from Kristin and Andy that they made it safe over the mountain to Lolo. Yay!  
-Distance: 100+!Consumption:OatmealHot chocolate2x cliff barPhilly cheese steak FiresCustard with ice creamIced tea Complete cookieBeef jerkyChai tea6 inch sub4 McDs cheeseburgers4 nuggetsFriesFive Guys shakeFive Guys got dog
+
+Distance: 100+!
+
+Consumption:
+
+* Oatmeal
+* Hot chocolate
+* 2x cliff bar
+* Philly cheese steak
+* Fires
+* Custard with ice cream
+* Iced tea
+* Complete cookie
+* Beef jerky
+* Chai tea
+* 6 inch sub
+* 4 McDs cheeseburgers
+* 4 nuggets
+* Fries
+* Five Guys shake
+* Five Guys hot dog

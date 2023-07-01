@@ -23,4 +23,12 @@ The route continued south through small farm roads inland. At this point I got m
 Eventually I made it to my campground at Nehalem Bay State Park and got settled in. A dinner and sunset closed out a spectacular first day. A forecast for cooler weather made it even better.   
 At camp there were at least 10 other riders in various tours, each nicer than the last. I got some good advice about where to camp in the future from an experience bike tourer. He told me about his many tours, including an attempted Trans America Trail ride that ended in saddle sores.   
 Anyways I need some sleep see you tomorrow!  
-Distance:48.16 milesConsumption:Crab melt and lemonadeBlackberry lemonadeREI meal2 cliff bars
+
+Distance:48.16 miles
+
+Consumption:
+
+* Crab melt and lemonade
+* Blackberry lemonade
+* REI meal
+* 2 cliff bars

@@ -43,4 +43,19 @@ I got to enjoy a still bumpy but pleasant bike trail for a few miles. The flower
 [![]({{ site.baseurl }}/assets/1626497376160175-9.png)]({{ site.baseurl }}/assets/1626497376160175-9.png)
   
 As I exited the path I rode into the outer limits of Butte. The poorly maintained roads continued being bumpy until I got onto a bike path, which was also bumpy in a different way. The path led me almost to the door of my warmshowers host for the night. I met Michael, a very experienced bike packer doing the continental divide trail and John, the host. John made an amazing pork dinner with asparagus, cantelope, and lots of other sides. It was all amazing. I salted everything to high heaven because I've been craving it. Also in attendance were Flipper, Roux, and Winston, John's dogs. We sat and chatted and played with the dogs while digesting. A brief rain came through and even cleared the smoke for now. We'll see tomorrow. Alright, I'm exhausted, night!  
-Mileage: 50Consumption:REI breakfast scrambleCliff barEggs BenedictPancakesMcDonald's minute made smoothieHi-cPorkBeans and riceAsparagusCollard greensCantelopeAvacado
+
+Mileage: 50
+
+Consumption:
+- REI breakfast scramble
+- Cliff bar
+- Eggs Benedict
+- Pancakes
+- McDonald's minute made smoothie
+- Hi-c
+- Pork
+- Beans and rice
+- Asparagus
+- Collard greens
+- Cantaloupe
+- Avocado

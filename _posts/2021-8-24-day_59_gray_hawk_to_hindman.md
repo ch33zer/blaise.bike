@@ -39,5 +39,24 @@ I made it through here after at least an hour and hit highway 80. There was a ga
 There was a busy stretch as I left town (the town of Combs/Hazard, it's one metro area) but that soon thinned out. I got the big climb out of the way then enjoyed the heck out of some riding on the north bank of A beautiful clear river. I didn't take pictures because my phone was refusing to charge and I needed battery to get my lodging for the night, but I promise I was nice.   
 I rode through the small towns along the river (Emmalena and Carrie) and soon arrived in Hindman. I checked my map and it said that First Baptist Church was my destination. I saw a sign pointing up a steep hill so I rode up it. It was crazy steep, and as I got to the top a guy in a car pulled up and told me the hostel was actually at the bottom. Lol. I descended back down and went inside. The guy was named Steve and he was the pastor. He and his large family of adorable children live next door. The hostel has wifi, couches, video games, and more. There's even a pizza place across the street. Even better, Paul was here. We commiserated about the climbs that day then he grabbed a shower. I charged my phone (seems to work fine in wall outlets?) and messed around until I got my shower. We then headed over to the pizza place across the street and got some excellent pizza. We caught up on our ride so far and our lives. Turns out Paul lives in LA, just north of me in San Diego.  
 We swapped stories and had a great time. Now it's 10:45 and I need sleep. We're getting up at 6, so night!  
-Distance: 80ishConsumption:ApplesSummer sausageCliff barChocolate milkCerealCarrot cakeBurgerFriesShakeSodaMentos2x mcdoublePepperoni pizza (10 inch)SaladProtein shake  
+
+
+Distance: 80ish
+
+Consumption:
+- Apples
+- Summer sausage
+- Cliff bar
+- Chocolate milk
+- Cereal
+- Carrot cake
+- Burger
+- Fries
+- Shake
+- Soda
+- Mentos
+- 2x mcdouble
+- Pepperoni pizza (10 inch)
+- Salad
+- Protein shake
 

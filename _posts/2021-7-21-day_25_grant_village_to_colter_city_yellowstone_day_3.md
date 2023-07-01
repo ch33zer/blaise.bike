@@ -54,5 +54,19 @@ After a disappointing dinner of overpriced pizza I was feeling a bit down. I dec
 [![]({{ site.baseurl }}/assets/1626994708488866-2.png)]({{ site.baseurl }}/assets/1626994708488866-2.png)
   
 As soon as the sun went down it got freezing. I quickly headed back towards my warm sleeping bag. I felt much better than I had before the swim. I watched downloaded YouTube for a bit before turning in.   
-Distance: 35ishConsumption:Cliff barMicrowaveable BurritoCranberry juicePoptartsCookiesPb&jFritosChicken wrapKombuchaChocolate milk  
+
+
+Distance: 35ish
+
+Consumption:
+- Cliff bar
+- Microwaveable Burrito
+- Cranberry juice
+- Poptarts
+- Cookies
+- Pb&j
+- Fritos
+- Chicken wrap
+- Kombucha
+- Chocolate milk
 

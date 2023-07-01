@@ -29,4 +29,22 @@ I got back on my route and continued on towards Dayville. A few miles outside to
 I got checked in then immediately fell asleep under a tree for an hour. It felt wonderful. I showered, ate some of the snacks I'd bought, then was approached by a man. He said his name was Eric and that he was an avid cyclist and really wanted to get into touring, specifically the route I'm doing. We chatted for a bit then he walked off. He came back with his wife Tomie and they were nice enough to invite me to dinner in their trailer! I happily accepted. Eric repeatedly tried to get me to take the seat off his bike in the hope that it would be more comfortable than mine, but I couldn't do that to him. We sat around, they gave me some lemonade and a wonderful dinner of rice broccoli, and chicken with cheesecake for dessert. I ate an absurd amount and felt full for the first time on this trip. After dinner we went on a walk then chatted more about nothing much. It was really one of the most special experiences so far. If you guys are reading this thank you so much, it really meant a lot.   
   
 Anyways I'm heading to bed, Tomie offered me blueberry pancakes for breakfast, which I of course agreed to, so I need to get some sleep. Night!  
-Distance: 60ishConsumption:CheeriosCliff barShot blocksGatoradeIce cream sandwichBurritoApple DanishOreo ice cream sandwichSour patch kidsFritos bagPeace teaChickenRiceBroccoli
+
+Distance: 60ish
+
+Consumption:
+
+* Cheerios
+* Cliff bar
+* Shot blocks
+* Gatorade
+* Ice cream sandwich
+* Burrito
+* Apple Danish
+* Oreo ice cream sandwich
+* Sour patch kids
+* Fritos bag
+* Peace tea
+* Chicken
+* Rice
+* Broccoli

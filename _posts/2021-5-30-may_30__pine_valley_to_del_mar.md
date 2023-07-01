@@ -22,19 +22,13 @@ Overall this check ride went wonderfully. The first day was tough with knee pain
   
 Consumption:
 
-1 kind bar
-
-McDonald's apple fritter
-
-McDonald's bacon egg and cheese McGriddle
-
-Some filtered water through my water filter
-
-Massive chimichanga
-
-Massive horchata
-
-Massive slurpee
+* 1 kind bar
+* McDonald's apple fritter
+* McDonald's bacon egg and cheese McGriddle
+* Some filtered water through my water filter
+* Massive chimichanga
+* Massive horchata
+* Massive slurpee
 
   
 

@@ -48,4 +48,22 @@ I saw in the distance two riders and hurried to catch them. I had just made a tu
   
 We went back to the park and set up tents and got ready for bed. Unfortunately there are no showers or nice bathrooms, but oh well. As I'm writing this it's 9 and the fireflies just came out. It really is beautiful.   
 Today was my longest day, at 130 miles. The tailwind and cool weather made all the difference. Let's hope it continues! Night!  
-Distance: 130Consumption:2x jimmy deanOrange juiceCliff barsMangosCookiesHoney stinger power barsGatoradeProtein shakeOdwalla juiceIce cream cookieBurgerSaladOnion ringsLemonade
+
+
+Distance: 130
+
+Consumption:
+- 2x jimmy dean
+- Orange juice
+- Cliff bars
+- Mangos
+- Cookies
+- Honey stinger power bars
+- Gatorade
+- Protein shake
+- Odwalla juice
+- Ice cream cookie
+- Burger
+- Salad
+- Onion rings
+- Lemonade

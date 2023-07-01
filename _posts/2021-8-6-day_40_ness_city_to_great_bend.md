@@ -30,4 +30,28 @@ Eventually I came over the last hill and got an expansive view of the valley bel
 I got a downhill then took a right which gave me a mild headwind and strong sidewind. I slowed down and took it easy. I then turned right again and got a stronger headwind. This was definitely slow going, but it was over after a few miles. I turned onto Broadway street in Great Bend and saw a cyclist coming from the opposite direction. I rode behind him for a while then caught up with him. His name was Osiris from Las Vegas. I'd actually seen his name forever in guestbooks ahead of me for literally a thousand miles. He was headed to an outdoor hostel. I told him about the church that was hosting cyclists and we called them (we got lucky and picked the correct church out of 4 candidates). They said we could totally stay there for the evening! We headed over. They met us and took us downstairs to the kindergarten room and said it was ours for the evening. We got settled then headed to the rec center for a shower, but they closed their showers for covid. We headed instead to a water park. They charged $4 for entrance. I took a shower in cold water, but it was hot enough that it felt great. Osiris went down a water slide the grabbed a shower. I got some crappy food then we left and rode over to a skate park and took our touring bikes inside. We messed around on the ramps and it was fun as hell, though I did bash my big chainring on a ramp, I hope it's fine 😮  
 We then headed to a laundromat so I could clean my nasty ass clothes (not washed since Breckenridge). I started them then we went back to the church to stash bikes and grab dinner. We got some Mexican food that was good and damn cheap ($20 for two large meals). I grabbed my clothes then we headed back, we'd been told to be in for the night by 7 otherwise there's be no one inside to let us in. We got in and settled in for the night. We just chilled, listened to music, talked about the ride, and ate. It was super chill.   
 I'm just finishing up this post then gonna head to bed around 10, night!  
-Distance: 60ishConsumption:Southwest chicken sandwichTeaOJPeppermint barkHoney stingerBurgerPieCantelopeIced teaDonutCliff barHot dogSlurpeePretzel3 mini burritosChipsSodaIced teaOreosMnMs
+
+
+Distance: 60ish
+
+Consumption:
+- Southwest chicken sandwich
+- Tea
+- OJ
+- Peppermint bark
+- Honey stinger
+- Burger
+- Pie
+- Cantelope
+- Iced tea
+- Donut
+- Cliff bar
+- Hot dog
+- Slurpee
+- Pretzel
+- 3 mini burritos
+- Chips
+- Soda
+- Iced tea
+- Oreos
+- MnMs

@@ -21,4 +21,22 @@ I stopped at a veteran owned convenience store and saw a business card for [cali
 I pulled into Ordway around 10:30, my earliest arrival so far. I got breakfast at a diner and contacted my host for the night, Kathy. She's letting me stay in the rec center for her church, Big Blue. I headed over there and her husband Greg let me in. It's a beautiful building, basically a basketball gymnasium with showers and a full kitchen. I took a long nap then went and grabbed some groceries. I sent 2 lbs of gear home in the mail and can't wait to see what the bike feels like without that weight.   
 Now I'm sitting back at the rec center, cooking up a bunch of the food I bought. It feels REALLY good to have a bit of down time. Most days I'm running low on time to get everything I need finished.   
 I'll be back to longer days tomorrow I think. In gonna get a good night's sleep first though, night.   
-Distance: 50Consumption:YogurtProtein shakeBananaPoptartsBriskOjPancakesBaconCookiesNachos with guacSaladBeansRavioli iced tea
+
+
+Distance: 50
+
+Consumption:
+- Yogurt
+- Protein shake
+- Banana
+- Poptarts
+- Brisk
+- OJ
+- Pancakes
+- Bacon
+- Cookies
+- Nachos with guac
+- Salad
+- Beans
+- Ravioli
+- Iced tea

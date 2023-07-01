@@ -35,4 +35,20 @@ I also realized that just over the hill from my site is a gorgeous view of the h
 [![]({{ site.baseurl }}/assets/1625960152054080-0.png)]({{ site.baseurl }}/assets/1625960152054080-0.png)
   
 Overall today was stressful and disappointing, but I made it, and tomorrow I can hopefully make some good progress. I'm exhausted though, so see you tomorrow.  
-Distance: 40ishConsumption:OatmealHot chocolateShot blocksComplete cookieBurgerSaladStrawberry shakeIced teaBurgerFritosLaysRoot bear floatIce cream shortcake
+Distance: 40ish
+
+Consumption:
+
+* Oatmeal
+* Hot chocolate
+* Shot blocks
+* Complete cookie
+* Burger
+* Salad
+* Strawberry shake
+* Iced tea
+* Burger
+* Fritos
+* Lays
+* Root bear float
+* Ice cream shortcake

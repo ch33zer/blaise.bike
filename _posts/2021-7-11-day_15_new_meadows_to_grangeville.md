@@ -62,4 +62,21 @@ It's farmland as far as the eye can see, which isn't that far due to the haze. I
 I then went to a park and fell asleep for an hour. I woke up and tried to figure out sleeping arrangements. Ultimately I decided to get a room for the night, for whatever reason I wasn't feeling the city provided campground (it was nice, just exposed I guess?) In retrospect I should have gone to an RV park and tent camped.  
 I went shopping for supplies as apparently I'm entering a few-services zone soon.   
 Exciting news: I'm picking up a brooks saddle that was shipped to me here in town tomorrow. Can't wait to try it out. Night!  
-Distance:80ishConsumption:Cliff barChai teaHomemade power bar from coffee shopJimmy dean breakfast2x GatoradeKerns juiceApple pastry2x lindor chocolatesDouble cheeseburgerSaladGarlic breadIced teaOff brand slushiiMicrowaveable pizza
+
+Distance:80ish
+
+Consumption:
+* Cliff bar
+* Chai tea
+* Homemade power bar from coffee shop
+* Jimmy dean breakfast
+* 2x Gatorade
+* Kerns juice
+* Apple pastry
+* 2x lindor chocolates
+* Double cheeseburger
+* Salad
+* Garlic bread
+* Iced tea
+* Off brand slushii
+* Microwaveable pizza

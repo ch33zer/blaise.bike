@@ -28,4 +28,22 @@ We arrived in the town of Honaker and headed to a cafe that someone had told us 
 [![]({{ site.baseurl }}/assets/1630094734348220-6.png)]({{ site.baseurl }}/assets/1630094734348220-6.png)
   
 Darcy is also here, in his RV. We spent the afternoon showering, planning and resting. We may split up tomorrow, I don't know. For now, I'm gonna retst. Night.   
-Distance: 40ishConsumption:Chocolate milkCliff barBreakfast bowl (eggs, bacon, biscuit)Footling breakfast sandwichHot chocolateChobani drinkableFig barSteak fried burgerSweet teaCornMashed potatoesPieSodaPaydayChipsMnMs
+Distance: 40ish
+
+Consumption:
+- Chocolate milk
+- Cliff bar
+- Breakfast bowl (eggs, bacon, biscuit)
+- Footling breakfast sandwich
+- Hot chocolate
+- Chobani drinkable
+- Fig bar
+- Steak fried burger
+- Sweet tea
+- Corn
+- Mashed potatoes
+- Pie
+- Soda
+- Payday
+- Chips
+- MnMs

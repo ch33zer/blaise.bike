@@ -45,5 +45,23 @@ The road surface at first was atrocious through here, but then I reached a brand
  Once the newly paved section ended the road got bad again for a bit. Once I crossed into a new county it was fine. I climbed one last hill and arrived in Utica and went to a Shell station. I tried to text my hosts for the night, Angelica and Jo but I had no service. I got a freel shake and walked around the parking lot trying to find some. A woman asked if I was trying to get in contact with them and I said yes. I think she was about to offer me her phone when I got some service and let them know I'd arrived. They gave me directions. I rode a half mile on a very busy, narrow, shoulderless highway and thanked my lucky stars when I arrived. Jo welcomed me and showed me to the air conditioned barn room they open to cyclists.  
 It's super cute and has a real bed, tv, and even an Xbox. They had a hose set up outside to shower in and let me play with their many cats. I mentioned I was hungry and Jo drove me up to get fast food in Owensboro. We came back and chatted, talked about life and watched paranormal activity shows on tv. Later, for desert Jo drove me down to the gas station for candy and soda. We sat around a bit more then I played video games with their son, Noe for several hours. It was an awesome night and they were fabulous hosts. Joni's going through a very difficult period in her life right now with a sick family member so send your good thoughts her way.   
 I need to sleep for another early day. Night!  
-Distance: 70Consumption:Protein shakeBelvitaAppleNutsCoffee cakeSodaPatty meltIce cream friesSodaIce cream sandwichFreelDouble cheese burgerFriesPineapple shakeCandySoda  
+Distance: 70
+
+Consumption:
+- Protein shake
+- Belvita
+- Apple
+- Nuts
+- Coffee cake
+- Soda
+- Patty melt
+- Ice cream fries
+- Soda
+- Ice cream sandwich
+- Freel
+- Double cheese burger
+- Fries
+- Pineapple shake
+- Candy
+- Soda
 

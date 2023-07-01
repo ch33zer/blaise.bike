@@ -43,4 +43,21 @@ I pulled into a gas station and got candy bar and Powerade. I think I was again 
 [![]({{ site.baseurl }}/assets/1626454604391210-9.png)]({{ site.baseurl }}/assets/1626454604391210-9.png)
  I pulled into camp and, of course, Kristin and Andy were there. I thought they would have been far away today. They had met John, another bike tourist and we're sharing a campground. He graciously let me join him too. John is a character who's been touring for 5 years straight and adventuring for a lot longer. I enjoyed hearing his stories. There was no water or showers in camp so I filtered my water and set up camp. This is truly bear country, the signs are everywhere warning about it. I set my food bag far away from my tent, and made sure I had no food.  
 Anyways I'm heading to bed, exhausted. Night  
-Distance: 80ishConsumption:BlueberriesBreakfast burritoChai teaAppleGatoradex2Massive burgerFriesCheesecakeIced teasChicken wingsFriesSnickersGummy candyFreeze dried ice cream sandwich from rei
+
+Distance: 80ish
+
+Consumption:
+- Blueberries
+- Breakfast burrito
+- Chai tea
+- Apple
+- Gatorade x2
+- Massive burger
+- Fries
+- Cheesecake
+- Iced teas
+- Chicken wings
+- Fries
+- Snickers
+- Gummy candy
+- Freeze dried ice cream sandwich from rei

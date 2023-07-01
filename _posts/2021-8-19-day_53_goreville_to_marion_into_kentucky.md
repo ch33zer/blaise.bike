@@ -61,4 +61,20 @@ When we entered Illinois Nick made the observation that upon entering a new stat
 <https://youtube.com/shorts/ByfG65GjD0A?feature=share>  
 The country here was very Amish, there were signs for saddles and plows and stuff. I wanted to stop at an Amish market (Yoder's Variety Store) but a woman coming out told me there was no food inside, and that rain would start within 30 minutes. I got passed by the buggy and then got back on the road to try and beat the rain. The Kentucky roads are shoulderless, winding, and with fast traffic. Definitely not my favorites of the trip so far. They also have marks from all the steel wheels buggies coming through  
 I rode the very long feeling and hilly 11 miles to Marion Kentucky without too much excitement. I arrived at a church that will host cyclists (Hilton of the Transam some people.supposedly call it). Indeed, there's a nice lounge, bunk beds, a shower, and wifi (though the wifi wasn't working for me). The pastor was super nice and let me in. They've been hosting for a long time, including the original 1976 Biketennial, the guest book for which is laminated and displayed proudly. They really care about their cyclists here! I got a shower then headed out to get dinner. I didn't feel like going far so just stopped at a subway and got a massive sandwich and soda. I then went to McDonald's for second dinner and free wifi. Now I'm sitting back at the church trying to stay awake writing this. I need sleep, so goodnight!  
-Distance: 60ish, maybe moreConsumption: Bacon, eggs, toast, pancake, oj breakfastProtein shakeCliff barRoast beefTexas toastMashed potatoesChipsSodaBanana puddingMeatball marinaraCookiesSoda
+
+
+Distance: 60ish, maybe more
+
+Consumption:
+- Bacon, eggs, toast, pancake, oj breakfast
+- Protein shake
+- Cliff bar
+- Roast beef
+- Texas toast
+- Mashed potatoes
+- Chips
+- Soda
+- Banana pudding
+- Meatball marinara
+- Cookies
+- Soda

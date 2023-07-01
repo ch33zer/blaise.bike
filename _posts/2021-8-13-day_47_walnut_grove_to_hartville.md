@@ -21,4 +21,22 @@ After a few hours we made one last steep climb into town, and descended down to 
 [![]({{ site.baseurl }}/assets/1628857880136642-3.png)]({{ site.baseurl }}/assets/1628857880136642-3.png)
   
 As we were lazing around the wind picked up and a nasty thunderhead appeared over the northern hills. We tried to get tents set up but the wind was so strong we needed both of us on each tent to hold them down. Eventually we got them set up, right as the rain started. It wasn't too heavy, but it did catch Nick as he made a convenience store run. Now we're just sitting around chilling, getting ready for an early day. We're gonna try to make it to Eminence for the night which will be a long day, so I'm gonna sleep. Night!  
-Distance: 70ishConsumption:French toastMuffinEggsToastOjSlusheesSoda2 cheeseburgers2 hamburgersFriesMcflurryPizzaPeace teaIce cream
+
+
+Distance: 70ish
+
+Consumption:
+- French toast
+- Muffin
+- Eggs
+- Toast
+- Oj
+- Slushees
+- Soda
+- 2 cheeseburgers
+- 2 hamburgers
+- Fries
+- Mcflurry
+- Pizza
+- Peace tea
+- Ice cream

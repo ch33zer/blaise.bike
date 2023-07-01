@@ -39,4 +39,18 @@ Update: it got cloudy around 3 and I decided to take advantage and head out. I m
   
 I zipped up my bags tight and kept going. While the rain was threatened it never actually came down. There was a rumble stripped shoulder about 2 feet wide so better than many of the roads I've been on and I felt good. I went fast for a while until about 2 miles outside the small town of Cameron. Out of nowhere a headwind picked up. This is probably my strongest headwind of the trip: it felt like 20 mph but was probably closer to 15. It slowed me down to a crawl. Luckily it wasn't a straight on headwind, it came from my front right so at least I had that going for me. I pressed on until a reached the small patch of trees that surrounded Cameron. I pulled into their covered patio and just enjoyed not being in wind for a few minutes. The town had an RV park so I decided to call it for the night. I called the owner and she was a sweet lady who provided a shower, wifi, and power for me to recover and recharge. I'm going to cook up some dinner then head to bed. The wifi reaches my tent so I may even get to watch Netflix for the first time this trip. What a treat!  
 I probably should have just stayed in Ennis, but I don't mind too much. 10 miles closer to Yellowstone! I may even reach there tomorrow! Night!  
-Distance: 40ish + 10ishConsumption:BananaChocolate power barJimmy dean sandwich0 calorie lemonade (why there's nothing in this)Cliff barGatoradeChicken curry wrapFriesIced teaCandy!REI Mac and cheese dinner
+
+Distance: 40ish + 10ish
+
+Consumption:
+- Banana
+- Chocolate power bar
+- Jimmy dean sandwich
+- 0 calorie lemonade (why there's nothing in this)
+- Cliff bar
+- Gatorade
+- Chicken curry wrap
+- Fries
+- Iced tea
+- Candy!
+- REI Mac and cheese dinner

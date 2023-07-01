@@ -32,4 +32,21 @@ They headed out and I finished fixing my flat. I rolled through town, admiring t
 I headed to my hotel and rested for an hour, and started drying out my soaking gear. I headed to the only open sporting goods store in town, Big 5 25 minutes away, to try and get a bigger battery. They had one and I'm using it now, seems to work fine.  
 I loaded up on groceries at an organic food grocery for the coming empty stretches through Colorado then headed back home. Unfortunately the laundry machine at the motel is out of operation, so I'll be wearing stinky clothes tomorrow. Oh well.   
 I headed to a bar and restaurant for dinner, where I am now writing this up. It's a nice place to hang out, with loud music and the Olympics on tv. I'm gonna head back to my room soon and get some sleep. Night!  
-Distance: 60ishConsumption:OJBreakfast barComplete cookieTeaCinnamon rollSteak burritoPumpkin chai teaRooibos iced teaKombuchaCookieWingsSaladChocolate shake
+
+
+Distance: 60ish
+
+Consumption:
+- OJ
+- Breakfast bar
+- Complete cookie
+- Tea
+- Cinnamon roll
+- Steak burrito
+- Pumpkin chai tea
+- Rooibos iced tea
+- Kombucha
+- Cookie
+- Wings
+- Salad
+- Chocolate shake

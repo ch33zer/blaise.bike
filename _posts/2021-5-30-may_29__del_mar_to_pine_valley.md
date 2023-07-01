@@ -68,19 +68,13 @@ As I write this it's 8 PM and I can't keep my eyes open. May be time to head to 
   
 Consumption
 
-2 Gatorades
-
-1 Peace Tea
-
-2 Kind bars
-
-2 cookies from deli
-
-Half a sandwich
-
-REI hiking meal
-
-A crapton of water
+* 2 Gatorades
+* 1 Peace Tea
+* 2 Kind bars
+* 2 cookies from deli
+* Half a sandwich
+* REI hiking meal
+* A crapton of water
 
   
 

@@ -40,4 +40,27 @@ We walked over to the water and had an excellent seafood dinner. Catching up wit
 [![]({{ site.baseurl }}/assets/1630990590903552-7.png)]({{ site.baseurl }}/assets/1630990590903552-7.png)
   
 With that, for the last time, goodnight!  
-Distance: 20ishConsumption:OatmealPeachCerealCliff barsChocolate filled pretzel snacksDanishSodaBojangles biscuitFriesSweet teaChipsSeltzerLobsterVegesRiceCrab dipBacon wrapped scallopsSodaMochi ice cream
+
+
+Distance: 20ish
+
+Consumption:
+- Oatmeal
+- Peach
+- Cereal
+- Cliff bars
+- Chocolate filled pretzel snacks
+- Danish
+- Soda
+- Bojangles biscuit
+- Fries
+- Sweet tea
+- Chips
+- Seltzer
+- Lobster
+- Veges
+- Rice
+- Crab dip
+- Bacon wrapped scallops
+- Soda
+- Mochi ice cream

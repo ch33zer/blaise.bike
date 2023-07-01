@@ -39,4 +39,18 @@ The river feeding the reservoir is flowing and very refreshing. I took a short d
 [![]({{ site.baseurl }}/assets/1625351056336878-9.png)]({{ site.baseurl }}/assets/1625351056336878-9.png)
   
 I got here around 1 and frankly have been a little bored. There's no cell service so you'll probably read this tomorrow. I'm going to make an early dinner then head to bed early too. I may get a very early start tomorrow to avoid traffic over McKenzie Pass. Apparently the RVs are killer (hopefully not literally).  
-Distance: 50ishConsumption:2 packets oatmealTeaCliff barBiscuits and gravyGatoradeNuun tabletLots of beef jerkyLots of trail mix
+
+
+Distance: 50ish
+
+
+Consumption:
+
+* 2 packets oatmeal
+* Tea
+* Cliff bar
+* Biscuits and gravy
+* Gatorade
+* Nuun tablet
+* Lots of beef jerky
+* Lots of trail mix

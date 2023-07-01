@@ -37,4 +37,13 @@ I think it would have been nicer if I'd had time to go for a swim (apparently it
 I few miles later I reached the town of Moran which was literally just a post office. I rode a few more miles and was feeling sleepy so pulled off and went under a bridge to take a nap (it was the only shade around). Unfortunately there was a loud group of fisherman down there so I just got back on the bike and kept riding. I didn't have to ride long to come to an RV park. It looked crappy so I decided not to stay. I kept going a few miles and instead went to a national forest campground. Unfortunately the only sites that were available didn't have bear boxes so I have no idea where I'll stash my stuff tonight. The camp host was most unhelpful providing a solution.  
 My bike had been making weird noises the last couple miles so I flipped it over to see what was going on. Turns out a giant grasshopper had gotten stuck in the cassette! I dislodged it which hopefully solves the odd noises.   
 I got my tent set up then headed next door to a place with a restaurant. They didn't open for an hour an a half. The host gave me the wifi and told me I could hang out by the restaurant. I found a plug and got to charge and use the wifi, luxury! I'm writing this there. I'm going to get dinner here then head back to camp and figure out the bear box situation. Night!  
-Distance: 45ishConsumption: 2x cinnamon rollCliff barRoast beef sandwichBrownieVitamin water(I think I need a huge dinner)
+
+
+Distance: 45ish
+
+Consumption:
+- 2x cinnamon roll
+- Cliff bar
+- Roast beef sandwich
+- Brownie
+- Vitamin water (I think I need a huge dinner)

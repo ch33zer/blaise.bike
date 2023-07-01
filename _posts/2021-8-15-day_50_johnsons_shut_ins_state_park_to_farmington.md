@@ -30,4 +30,21 @@ The descents were very steep and fast, but super fun. I turned onto a state road
   
 It's called Al's Place, after an avid local cyclist who passed away. They host probably hundreds of riders a year. It's only $20 a night, which I was happy to pay. There's laundry and showers and comfy beds, basically everything I could hope for. We went out to get some lunch (pizza at No 102 Tap House) and it was good, but I ordered way too much. They had amazing raspberry lemonade. I went back to the hostel and fell asleep for a good couple hours. Nick went and did chores in this time. When I woke up I started laundry and went to refill on food from Walmart. They had Shin Black Ramen, the tastiest ramen you can get so I loaded up on that. After that I sat around for a while watching TV while Nick chatted with friends. It was a relaxing evening and may be our last together, we may split up tomorrow, though I'm not sure, we'll see.  
 I'm gonna get some sleep, night!  
-Distance: 40ishConsumption:Yoohoo chocolate milkPoptartsClif barNutsGatoradeGeneral Tsos PizzaHummas and PitaArtichoke DipBuffalo CauliflowerLemonadeSodaSaladWatermelonBlueberries
+
+Distance: 40ish
+
+Consumption:
+- Yoohoo chocolate milk
+- Poptarts
+- Clif bar
+- Nuts
+- Gatorade
+- General Tsos Pizza
+- Hummus and Pita
+- Artichoke Dip
+- Buffalo Cauliflower
+- Lemonade
+- Soda
+- Salad
+- Watermelon
+- Blueberries

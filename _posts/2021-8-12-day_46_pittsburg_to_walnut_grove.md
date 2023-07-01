@@ -32,4 +32,23 @@ Nick pulled off and had to take a meeting with the charity he's working with and
 [![]({{ site.baseurl }}/assets/1628785632892519-7.png)]({{ site.baseurl }}/assets/1628785632892519-7.png)
   
 The hills were big and the sun was burning super hot. I was boiling as I climbed. Luckily it was a short distance and I got there without too much trouble. I pulled into Walnut Grove then turned north for a slight off route detour to the lodging for the night, 7Cs winery. As I left town some.kids yelled something at me from a car. I made it to the winery and it was a nice little.spot on top of a hill. There was shade, showers, wifi (but I couldn't connect) and cold drinks for sale. I was pretty happy. Nick arrived just a few minutes later. We bought drinks to cool off and sat around chatting with the owner. He was a super nice guy and we talked quite a bit. He told me about his backpacking days in the past, about the winery, and the land he owned, and he made us popcorn! It was all interesting. We basically just relaxed for several hot hours in the shade. It was nice. He let us pitch our tents under his awning so no rain flys, luckily (they're unusably hot in the heat). I'm writing this up to the sound of the bugs as the heat is dying off. I need to sleep though, so night!  
-Distance: 70ishConsumption:PancakesCinnamon rollsOrange juiceChocolate milkGatoradeGrilled cheese with baconPieFruitIced teaCandy barCheeseCrackersChipsPopcornCheese curds
+
+
+Distance: 70ish
+
+Consumption:
+- Pancakes
+- Cinnamon rolls
+- Orange juice
+- Chocolate milk
+- Gatorade
+- Grilled cheese with bacon
+- Pie
+- Fruit
+- Iced tea
+- Candy bar
+- Cheese
+- Crackers
+- Chips
+- Popcorn
+- Cheese curds

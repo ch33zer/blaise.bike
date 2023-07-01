@@ -46,4 +46,26 @@ It was about 4pm, with 80% humidity and 95 degrees. My southern California upbri
   
 I was pretty sure I was just gonna get a motel but I went by the free public park just to check. It was nice but I didn't see any other cyclists there (I'd later learn that a dude I'd ride with the next day, Travis was there) and I didn't see showers so I called a motel and asked for a room. They had one so I grabbed it and headed over. I was absolutely beat at the end of the day, the heat really took it out of me.   
 I got a shower and some fast food, and look forward to continental breakfast tomorrow. I need some sleep, night!  
-Distance: 90ishConsumption:PoptartsProtein shakeProtein powderCliff barShot blockBurgerMashed potatoes and gravyIced teaIce cream sandwichPastrami sandwichCinnamon rollSodaGatoradePizzaSodaKFC sandwichFriesSoda
+
+
+Distance: 90ish
+
+Consumption:
+- Poptarts
+- Protein shake
+- Protein powder
+- Cliff bar
+- Shot block
+- Burger
+- Mashed potatoes and gravy
+- Iced tea
+- Ice cream sandwich
+- Pastrami sandwich
+- Cinnamon roll
+- Soda
+- Gatorade
+- Pizza
+- Soda
+- KFC sandwich
+- Fries
+- Soda

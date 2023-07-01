@@ -37,4 +37,15 @@ What's more there was a tailwind. I was absolutely flying for the next 30 miles,
 [![]({{ site.baseurl }}/assets/1627076901452556-10.png)]({{ site.baseurl }}/assets/1627076901452556-10.png)
   
 I could either push on towards the next major town, Lander, which was about 70 miles away (downhill, with a tailwind, so not too crazy) or call it a day here in Dubois. I decided to stay in Dubois because the accomodations were nice, an Episcopal church with a free hiker/biker hostel. I got settled in and it's fantastic. A fridge, cots, a microwave. Everything I need for a night. I'm going to go explore the town a bit, maybe do some minor bike repair to try and true my rear wheel. I may also stock up on food while I'm in town. TORTILLAS! I may update this later today. Night!  
-Distance: 50ishConsumption:OatmealTeaCliff barShot bloxS'mores chocolate barGatoradeHuge chili relleno
+
+
+Distance: 50ish
+
+Consumption:
+- Oatmeal
+- Tea
+- Cliff bar
+- Shot blox
+- S'mores chocolate bar
+- Gatorade
+- Huge chili relleno

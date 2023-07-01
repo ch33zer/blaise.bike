@@ -38,5 +38,15 @@ The hills I'd just come from were intimidating
 [![]({{ site.baseurl }}/assets/1627513901544653-2.png)]({{ site.baseurl }}/assets/1627513901544653-2.png)
   
 Another highway joined the one I was on and traffic picked up. A minor shoulder appeared which made things easier. I rode steadily for about 15 miles to my stopping point for the night, Walden. It's a really charming little town. They let me camp in the park, and I cooled off in the library. There's a nice public pool that I paid to use the showers. I also got some lunch at a fantastic barbeque place, All Smoked Up. The owner was super nice and let me bring my bike inside. He said that last week a $10k dollar bike had been stolen in town 😳 I got pulled pork nachos and some Mac and cheese and it was fantastic. I went over to the park and got my tent set up and met two other cyclists, Tim/Tom (can't remember) and Robin. Robin is Westbound and Tim lives in the area and is doing a short section of the route. I told them about the tasty restaurant, and said I would go back for dinner. I've heard that it's somewhat loud in this park at night so hopefully I will get a good night's sleep. For now, I'll sign off and go and get some dinner. Night!  
-Distance: 70ishConsumption:CheeriosCliff barJimmy Dean sandwichOrange juiceGatoradePulled pork nachosMac n cheeseSoda  
+Distance: 70ish
+
+Consumption:
+- Cheerios
+- Cliff bar
+- Jimmy Dean sandwich
+- Orange juice
+- Gatorade
+- Pulled pork nachos
+- Mac n cheese
+- Soda
 

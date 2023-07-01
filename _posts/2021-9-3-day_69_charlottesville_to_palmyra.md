@@ -33,4 +33,24 @@ And a monument to confederate soldiers. 
 [![]({{ site.baseurl }}/assets/1630711245999409-0.png)]({{ site.baseurl }}/assets/1630711245999409-0.png)
   
 I'm now sitting inside, enjoying ac and wifi, about to watch some TV then catch up on sleep. It will be an early day tomorrow, and I may try and go all the way to Richmond or I may stop after only 30 miles in Mineral, we'll see. I can't finish the trip until Monday anyways, since my welcome party won't be here until Sunday night. I can't believe I'm only a few days from finishing. Ahhhhhh! Night!  
-Distance: 20ishConsumption:CerealDonutTeaChai teaCroissantHam and cheese sandwichCookieKombuchaRoot beerSodaCandyFried chickenCobblerMac n cheeseTendersMore candy
+
+
+Distance: 20ish
+
+Consumption:
+- Cereal
+- Donut
+- Tea
+- Chai tea
+- Croissant
+- Ham and cheese sandwich
+- Cookie
+- Kombucha
+- Root beer
+- Soda
+- Candy
+- Fried chicken
+- Cobbler
+- Mac n cheese
+- Tenders
+- More candy

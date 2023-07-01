@@ -33,4 +33,17 @@ I was getting closer to the town of Coburg, the last city on section one of my m
 [![]({{ site.baseurl }}/assets/1625187909545148-3.png)]({{ site.baseurl }}/assets/1625187909545148-3.png)
   
 I got a tent site and immediately took a nap. There are three other bikers all doing the same route tonight so I hope to get a bit of info about upcoming obstacles. I'm tied and going to cook some dinner then head to bed, see you tomorrow!  
-Mileage: 77Consumption:Jimmy Dean Sausage Roll breakfastBananaCarton of 2% milk1 Clif bar2 shot blocksHuge omelette with hash brownsOrange juiceLots of peanut MnMs
+
+
+Mileage: 77
+
+Consumption:
+
+* Jimmy Dean Sausage Roll breakfast
+* Banana
+* Carton of 2% milk
+* 1 Clif bar
+* 2 shot blocks
+* Huge omelette with hash browns
+* Orange juice
+* Lots of peanut MnMs

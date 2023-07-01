@@ -27,5 +27,23 @@ I joined a small county road for the rest of the ride it was long and flat throu
 I saw a herd of deer like animals, perhaps pronghorns, speeding through the plains at what must have been 40 mph. It was really cool to see, but they were much too fast for me to get a photo.  
 I ran into a duo headed west from New Jersey. They told me about the hot springs in Saratoga coming up. I am kicking myself because I didn't tell them about the upcoming construction. I hope they made it ok. We said goodbye and I had only a few miles into Saratoga where I had my warmshowers for the night.   
 I pulled into Saratoga and jumped onto an open wifi network from a restaurant, then just decided to actually go eat at the restaurant. I messaged my warm showers host and enjoyed several boba drinks, a first for the trip. They were amazing. I had some chicken and waffles and left content. I went over to the church I was staying at for the night and happened to run into another cyclist who was doing the same. His name was Rob. Since neither of us were able to get in touch with the host I headed over to the free public hot springs to shower and relax. They were REALLY hot. One of the pools was 111 someone said. I went in a less hot one but I still felt like a lobster. After an hour or so of reading and soaking I got a text from the pastor of the church that I could swing by whenever. I got showered and changed then did. Rob was inside and gave me the grand tour. The place was an old parsonage that is still maintained for cyclists and other church activities. There are beds and a full kitchen. It's very comfortable. Rob and I talked for a bit then he headed out for groceries while I headed out for laundry. While my clothes washed I got some ice cream and walked around town. It's a really nice little town with a cool rustic feeling main street. I returned to the laundromat to try and read but ended up falling asleep instead 💤. When I woke up my clothes were dry so I headed back to the church. Mary, the host swung by and I thanked her for her hospitality. I went across the street and got some dollar general dinner and breakfast. Rob was cooking pizza when I returned, so I made my dinner, stir fry, the we sat down and discussed routes and planning. Rob gave me HEAPS of useful info about the upcoming trip and the best places to stay, what a homie. We cleaned up then headed to bed, where I am now writing this. I'm getting tired so, goodnight!  
-Distance: 40ishConsumption:2x jimmy dean breakfastsHostess cakeVitamin water2x bobaIced teaChicken fingers waffleEggsIce creamLemonadeHot tomalesStir fryChipsPopcornTea  
+
+
+Distance: 40ish
+
+Consumption:
+- 2x jimmy dean breakfasts
+- Hostess cake
+- Vitamin water
+- 2x boba
+- Iced tea
+- Chicken fingers waffle
+- Eggs
+- Ice cream
+- Lemonade
+- Hot tomales
+- Stir fry
+- Chips
+- Popcorn
+- Tea
 

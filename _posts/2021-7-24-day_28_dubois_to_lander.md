@@ -32,4 +32,21 @@ The road mostly returned to flat farmland, though there were some beautiful moun
 [![]({{ site.baseurl }}/assets/1627195758657116-8.png)]({{ site.baseurl }}/assets/1627195758657116-8.png)
   
 I pulled into Lander around 3 and went to the bike shop. The owner and other employees were fantastic. They said they've been taking care of tourists for years. They gave me ice cream and took a look at the spoke I'd replaced and retrued the wheel. I hung around and met Shaka the dog. I got on the wifi and just relaxed after the day of riding. After an hour of lazing about I went to my lodging for the night, a warmshowers host in town named Mike. He let me in and showed me around his beautiful home, featuring a teepee, treehouse, hammock, and stream running through the property. It was beautiful. I was just getting ready to go out for a solo dinner when three other cyclists for the night rolled up. They had a heck of a last few days, with one of them having 7 flats in 4 days. They got unpacked and showered. I waited until they were finished then we headed to dinner in town. It was awesome. Their names were Emmy, Jordan, and Adam (not sure on the last one sorry!). We had a really nice, massive dinner. I had a full rack of ribs and a shake for dessert. We walked back to the house and then sat on the balcony just chatting. It was really nice. The moon was coming up an orangey color so we walked to the park to see it. Around this time our hosts came back from dinner and Mike joined us. Again, just walking around the park was awesome. We came back and now I'm writing this up instead of sleeping. Night!  
-Distance: 70ishConsumption:OatmealHam and cheese sandwichIced teaShot blocksPbnj tortillaFritosFruit gummiesGatoradeRack of ribsMashed potatoesRocky mountain oystersOther fried stuffRaspberry shake
+
+
+Distance: 70ish
+
+Consumption:
+- Oatmeal
+- Ham and cheese sandwich
+- Iced tea
+- Shot blocks
+- Pbnj tortilla
+- Fritos
+- Fruit gummies
+- Gatorade
+- Rack of ribs
+- Mashed potatoes
+- Rocky mountain oysters
+- Other fried stuff
+- Raspberry shake

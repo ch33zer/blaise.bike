@@ -33,4 +33,27 @@ We headed over to get some food and got barbeque ribs and a bunch of sides. I go
   
 We headed over to our tent site and got set up then went swimming in the lake as the sun went down. It was gorgeous and a perfect end to the day. One of the only state parks in Kansas I've seen has been awesome so far.   
 We came back to the site and showered then got ready for bed. I'm sitting writing this with fireflies around the tent as the band is wrapping up playing. I'm about to turn in (though it's still hot!). Night!  
-Distance: 90ish (almost 100 I think)Consumption:CerealToastPieOjChicken meltOcreSodaCookieGatoradeIce creamRibsFried mushroomsFried cornballsMozzarella sticksHostess snackCole slawCheesy potatoesSugar drinkIce cream
+
+
+Distance: 90ish (almost 100 I think)
+
+Consumption:
+- Cereal
+- Toast
+- Pie
+- Oj
+- Chicken melt
+- Ocre
+- Soda
+- Cookie
+- Gatorade
+- Ice cream
+- Ribs
+- Fried mushrooms
+- Fried cornballs
+- Mozzarella sticks
+- Hostess snack
+- Cole slaw
+- Cheesy potatoes
+- Sugar drink
+- Ice cream

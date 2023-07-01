@@ -39,4 +39,22 @@ I turned south onto Wolf Creek Road and got to enjoy a phenomenal stretch of rid
 At one point I did hear loud rapid fire rifle shots. It was probably just someone doing target practice but I didn't stick around to find out.   
 I turned east with just a few miles to Goreville and the spell was broken. The real world was texting: Nick was at the church and couldn't get in, and the pastor was trying to figure out what was going on. I responded and hurried on to Goreville. I arrived at the church and a man in a truck welcomed me and said he texted the person to let me in. I thanked him and said it should already be taken care of. Nick was inside and let me in. This place is amazing! It has sofas with a tv, free laundry, and an excellent shower with soap and shampoo. It even has a kitchen. It's by far the best church I've stayed in. Thanks to Pastor Rico, Jeannie and Josh for welcoming us and getting us inside. It'll be tough to leave. We got some pizza for dinner then hit up the convenience store. We're planning out the next few days of riding, particularly since Nick's gets complicated as he leaves the route to head towards Columbus and New Jersey.   
 I am going to get some sleep. Night!  
-Distance: 70ishConsumption:BananaRx barYoo-hooMilky wayTeaPeanutsPad ThaiEgg rollsFried bananaThai teaSodaPizzaCheese sticksSoda
+
+
+Distance: 70ish
+
+Consumption:
+- Banana
+- Rx bar
+- Yoo-hoo
+- Milky way
+- Tea
+- Peanuts
+- Pad Thai
+- Egg rolls
+- Fried banana
+- Thai tea
+- Soda
+- Pizza
+- Cheese sticks
+- Soda

@@ -41,4 +41,20 @@ I emerged into a large field where I was surrounded by massive mountains in all 
   
 I got some food and water, took a rest, then got ready to be rewarded for my climb: a several thousand feet descent into Sisters, a largeish town where I was considering camping for the night. The butterflies were literally a flock on this descent, and they got me in the mouth and eyes hard enough that it hurt. Poor creatures. The descent slowly leveled out into long stretches of straight road through a new type of forest: dry alpine trees, very different from what I saw at the start of today on the other side of the pass. I was feeling great from the descent so got into the drops and hammered for a bit and... heard the hissing from my tire of the first flat of the trip. A staple had worked itself through the tire. Luckily all my supplies worked and I was able to change it out without too much trouble. The worst part is that I was only a mile or two outside town. Soon enough I was back on my way. I stopped at the first restaurant and got $40 worth of food and had about 6 lemonades. I learned during lunch that there's a heat advisory today in Sisters, so we're back in the heat.   
 I headed further into town and visited a bike shop to buy a new saddle. We'll see if it helps with the saddle sores. I went to a city park which advertised hiker biker sites and was pleasantly surprised: it's right next to a creek with showers and very friendly camp hosts (hi John and Anita!) It's going to be a very pleasant evening here I think. I'm going to head back into town and get some ice cream then head to bed. See you tomorrow!  
-Distance: 40ishConsumption:Lots of cliff bars (3?)Nuun tabletBeef jerkySaladBurgerOnion ringsSandwichBlack licoriceBanana breadKombuchaOreo shake
+
+
+Distance: 40ish
+
+Consumption:
+
+* Lots of cliff bars (3?)
+* Nuun tablet
+* Beef jerky
+* Salad
+* Burger
+* Onion rings
+* Sandwich
+* Black licorice
+* Banana bread
+* Kombucha
+* Oreo shake

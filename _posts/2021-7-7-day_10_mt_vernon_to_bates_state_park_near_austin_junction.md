@@ -20,4 +20,17 @@ Note: my bee sting swelled up pretty good this morning. I'm putting this picture
 
 [![]({{ site.baseurl }}/assets/1625685729795602-3.png)]({{ site.baseurl }}/assets/1625685729795602-3.png)
   
-Distance: 35ishConsumption:Blueberry pancakesFruitEggs teaCliff barIced teaCoffee cakeBanana breadShot blocksRamenMnMsBeef jerky
+Distance: 35ish
+
+Consumption:
+* Blueberry pancakes
+* Fruit
+* Eggs tea
+* Cliff bar
+* Iced tea
+* Coffee cake
+* Banana bread
+* Shot blocks
+* Ramen
+* MnMs
+* Beef jerky

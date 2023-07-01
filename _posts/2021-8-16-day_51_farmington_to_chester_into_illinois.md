@@ -38,5 +38,22 @@ In fact, we were near Chester, Illinois: the hometown of the creator of Popeye, 
 [![]({{ site.baseurl }}/assets/1629168150810339-10.png)]({{ site.baseurl }}/assets/1629168150810339-10.png)
   
 We rode up a super steep hill into the town of Chester. As we climbed into town Nick snapped another spoke, after getting the last broken spoke literally this morning. What a welcome to the state. A family called out to us from their porch, asking where we were from as we bombed down a steep hill. I braked and responded. They gave us directions to a convenience store and the bike shack we were planning on staying at. In Casey's we got stupid amounts of soda and I even got donuts. I need to watch my sugar intake. Nick took a charity phone call while I went to find the shack. It's located next to an Eagles Club restaurant/clubhouse. Everyone was super friendly, and I got some dinner and chatted with locals. One guy in particular, whose name I forgot, told me all about town and previous cyclists he's met and the routes they take and a million other topics. He was incredibly friendly. The waitress was also nice. Overall everyone was great. After dinner I headed down to the shack and Nick was sitting there. He realized he's not making it to Carbondale tonight and is gonna crash here. We checked out the room and it's nice, it has bunk beds for 8 and AC and power, with some bathrooms and a shower next door. 1000x better than camping. I got a shower while Nick went and took another charity call (I don't know how he balances all the riding and charity obligations). I'm writing this up sitting in the room, getting tired and ready to sleep, so I think I will. Night!  
-Distance: almost 50Consumption:Veggie scrambleNutella toastChai tea latteCheddar popcornLobsterMac and cheeseTexas toastKind barSodaDonutsFritterWingsTacos  
+
+
+Distance: almost 50
+
+Consumption:
+- Veggie scramble
+- Nutella toast
+- Chai tea latte
+- Cheddar popcorn
+- Lobster
+- Mac and cheese
+- Texas toast
+- Kind bar
+- Soda
+- Donuts
+- Fritter
+- Wings
+- Tacos
 

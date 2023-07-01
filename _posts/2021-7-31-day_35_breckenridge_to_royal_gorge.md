@@ -63,5 +63,26 @@ I entered an arid valley blanketed by sunflowers. 
 [![]({{ site.baseurl }}/assets/1627786879819641-1.png)]({{ site.baseurl }}/assets/1627786879819641-1.png)
   
 I had one more large climb with erratic winds then I dropped down to highway 50, next to the royal gorge. There was no shoulder and loooots of traffic on this road. The rain also picked back up. I was not having a good time so pulled off asap, to a KOA. It's a nice facility with free showers and good wifi, but expensive. I cooked up a meal to get rid of some of the food I've been hauling for a thousand miles. When I went to wash my dishes I ran into a cyclist who's doing the great divide trail and finishing tomorrow! His name was Charlie from Michigan and we talked for a while, complaining about traffic. Now I'm sitting inside avoiding rain and writing this. I'm gonna go get some sleep for an early wake up to avoid traffic on 50. Night!  
-Distance: 90Consumption:Odwalla juicePoptartsShot blocksCliff barHoney stingerPancakesEnglish muffin with cheeseHash brownsBaconLouisiana shrimpShakeLemonadeChipsTortilla soup for 4La croix (!)Ice creamOrange juice  
+
+
+Distance: 90
+
+Consumption:
+- Odwalla juice
+- Poptarts
+- Shot blocks
+- Cliff bar
+- Honey stinger
+- Pancakes
+- English muffin with cheese
+- Hash browns
+- Bacon
+- Louisiana shrimp
+- Shake
+- Lemonade
+- Chips
+- Tortilla soup for 4
+- La croix (!)
+- Ice cream
+- Orange juice
 

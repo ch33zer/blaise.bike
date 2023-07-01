@@ -29,4 +29,17 @@ This began a 7 mile descent into the dessert. The scenery change was dramatic. 
 [![]({{ site.baseurl }}/assets/1625462578328833-10.png)]({{ site.baseurl }}/assets/1625462578328833-10.png)
 I was feeling exhausted but still had 10 or so miles of mostly flat/downhill going. This bit took a while, particularly when it rotated upwards into a climb at the end. Regardless, I pulled into the hostel right around 4. It's amazing. It caters to bikers doing long distance rides and had repair tools, free popsicles, breakfast, a full kitchen, showers, everything. It's called the Spoke n Hostel and I strongly recommend it to everyone passing this way. The hosts and other guests are all wonderful. Some of the other riders are doing the Trans America Trail. David is doing a portion of it (he's a university professor). John is doing it. Then there's a relatively new cyclist who just decided to go for it on a whim. Lots of interesting people and the hosts are great too. I went to the nearby convenience store and grabbed a microwavable chicken pot pie and a bunch of fig newtons for dinner, not my best. I'm off to bed.  Happy fourth, and see you tomorrow!  
   
-Mileage: 90ishConsumption:DonutsHam and cheese rolledCinnamon rollLemonadeChicken tendersFriesShakeVitamin waterPacket of fig newtonsChicken pot pie
+Mileage: 90ish
+
+Consumption:
+
+* Donuts
+* Ham and cheese rolls
+* Cinnamon roll
+* Lemonade
+* Chicken tenders
+* Fries
+* Shake
+* Vitamin water
+* Packet of fig newtons
+* Chicken pot pie

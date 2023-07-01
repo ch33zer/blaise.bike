@@ -54,4 +54,21 @@ I pedaled quickly onward buoyed by the knowledge I was so close. Soon enough I r
 I showered and they came home, setting out even more food for me! Unfortunately I missed them before they left for a dinner reservation. I'm now just sitting on the bed they provided, in the downstairs with a beautiful river view. The sun is going down and it's just gorgeous out. People are enjoying the water on boats, and everything just feels happy right now, as it has for most of the day. I think I waved and said hello to everyone I met on the trail.   
 Tomorrow I finish my ride. I'm simulataneously ecstatic, nervous, and uncertain about what will happen next. I have no idea where I'll be living in a month, and life is generally going to be hectic for a while. Maybe that's not such a bad thing. This trip has taught me that I can handle it, no matter what 'it' is.   
 I'm going to go read in the sunset light then sleep. Night!  
-Distance: 70ishConsumption:McDonald's bacon egg and cheese mcgriddleMcDonald's hash brownMcDonald's teaSugar teaWhole foods pastriesShot blocksChicken sandwichFriesPimento dip and chipsSweet teaSushiSpaghettiPeanut butter pretzel snacks
+
+
+Distance: 70ish
+
+Consumption:
+- McDonald's bacon egg and cheese mcgriddle
+- McDonald's hash brown
+- McDonald's tea
+- Sugar tea
+- Whole foods pastries
+- Shot blocks
+- Chicken sandwich
+- Fries
+- Pimento dip and chips
+- Sweet tea
+- Sushi
+- Spaghetti
+- Peanut butter pretzel snacks

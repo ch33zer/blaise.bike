@@ -32,5 +32,20 @@ This was my climb out of the Great Divide Basin. It looked steep but I consoled 
 [![]({{ site.baseurl }}/assets/1627353002725931-8.png)]({{ site.baseurl }}/assets/1627353002725931-8.png)
   
 I got a nice descent for a bit before pedalling 6 miles into Rawlins. I was starving so I rode through the frustratingly hilly town to a Thai restaurant. A nice woman, Cindy, and her two sons asked me about my trip. I told them about the ride, and Cindy said she always wanted to do this or something similar. I told her she should (hello if you're reading this, come join us!). I got seated and had an excellent lunch of fried beef, rice, and egg rolls, with Thai tea. I felt much better after eating. Cindy left and said goodbye, and I went to find lodging for the night. I went to a nearby motel that I'd been recommended and they had one room left. I took it for $50 (what a deal compared to my last crappy motel in Missoula). I got my fix of internet then ordered a pizza. I picked it up and grabbed a few snacks for tomorrow (breakfast + power bars). Now I'm gonna get to bed early for another early morning. Night!  
-Distance: 70 milesConsumption:OatmealHoney waffleShot blocksBeef jerkyGranolaGatoradeFried beefLettuceEgg rollsRicePizzaCinnamon sticks  
 
+
+Distance: 70 miles
+
+Consumption:
+- Oatmeal
+- Honey waffle
+- Shot blocks
+- Beef jerky
+- Granola
+- Gatorade
+- Fried beef
+- Lettuce
+- Egg rolls
+- Rice
+- Pizza
+- Cinnamon sticks

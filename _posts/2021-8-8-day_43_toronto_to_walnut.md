@@ -37,5 +37,25 @@ It even had its own road sign, which I'd not seen
 [![]({{ site.baseurl }}/assets/1628477250405216-8.png)]({{ site.baseurl }}/assets/1628477250405216-8.png)
   
 I met the pastor and he gave me a tour then left me to my own devices. It's a gorgeous space and has fresh veges, homemade ice cream, and a full kitchen for us. I got everything out of my bags to dry it in the sun. I made some dinner of Mac and cheese and grilled zucchini, which normally I don't even like but it tasted so good. Ice cream for desert was the cherry on top. I got a hotel for tomorrow and the next day just down the road, I'm taking my first rest day since Montana! I'm gonna go do dishes then get some sleep. Night!  
-Distance: 70ishConsumption:MuffinCliff barHoney stingerGatoradeChicken tendersCorn dogSlushiiIce cream sandwichSour patch watermelonMac and cheeseUncured meatZucchiniIce creamFlavored iceFruit cupPeanut butter crackers  
+
+
+Distance: 70ish
+
+Consumption:
+- Muffin
+- Cliff bar
+- Honey stinger
+- Gatorade
+- Chicken tenders
+- Corn dog
+- Slushii
+- Ice cream sandwich
+- Sour patch watermelon
+- Mac and cheese
+- Uncured meat
+- Zucchini
+- Ice cream
+- Flavored ice
+- Fruit cup
+- Peanut butter crackers
 

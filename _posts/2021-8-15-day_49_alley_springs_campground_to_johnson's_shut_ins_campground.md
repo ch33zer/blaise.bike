@@ -35,4 +35,23 @@ We went back to the convenience store and got hot pockets and burritos and snack
 For the first time in Missouri it's actually cold at night. That's a welcome change from the heat wave of a few days ago.  
 The fireflies are out again, and it's a cloudless night and we can actually see the stars. I'm going to take a gamble and leave the rain fly off tonight.   
 Anyways, I'm beat and need to sleep. Night!  
-Distance: 60ishElevation gain: 6000+Consumption:2 bacon egg and cheese2 poptartsTeaMentos2 granola barsGatoradeSodaIce cream sandwichPeace teaGatoradeIce creamHot pocketBurritoSoda
+
+
+Distance: 60ish
+Elevation gain: 6000+
+
+Consumption:
+- 2 bacon egg and cheese
+- 2 poptarts
+- Tea
+- Mentos
+- 2 granola bars
+- Gatorade
+- Soda
+- Ice cream sandwich
+- Peace tea
+- Gatorade
+- Ice cream
+- Hot pocket
+- Burrito
+- Soda

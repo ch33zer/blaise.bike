@@ -43,4 +43,26 @@ Bonus: more photos of the sky
 
 [![]({{ site.baseurl }}/assets/1630804514364356-9.png)]({{ site.baseurl }}/assets/1630804514364356-9.png)
   
-Distance: 70ishConsumption:Yoo-hooMuffinDonutsChicken sandwichSodaKind barIced teaGrilled cheeseSaladCrab dipIce creamChai teaBurgerFriesCorn dogShakeFried chickenFriesSoda
+
+Distance: 70ish
+
+Consumption:
+- Yoo-hoo
+- Muffin
+- Donuts
+- Chicken sandwich
+- Soda
+- Kind bar
+- Iced tea
+- Grilled cheese
+- Salad
+- Crab dip
+- Ice cream
+- Chai tea
+- Burger
+- Fries
+- Corn dog
+- Shake
+- Fried chicken
+- Fries
+- Soda

@@ -61,5 +61,22 @@ There a dirt MTB trails everywhere in Breckenridge. They are something else. The
 [![]({{ site.baseurl }}/assets/1627702909329548-1.png)]({{ site.baseurl }}/assets/1627702909329548-1.png)
   
 I made it back to the bike shop and they'd regreased the front hub and the bottom bracket, and oiled the chain. I said thanks and headed to my hostel. It's a really cute home that has been stuffed with rooms and bed. I am staying in a shared dorm. I have two roommates, Emily and Kathy who are hiking the Colorado trail. I got my bike unpacked and stored away then took a shower in the nicest shower of the trip, it had 4 heads. The hostel offers free laundry so I washed my clothes. I ordered breakfast for the morning then headed to dinner with Emily and Kathy. We exchanged hiker/biker info, and I may have successfully convinced Kathy to bikepack. We came back and I sat down in the living room to watch the Olympics and write this post. It turns out that everyone here is on an adventure. One of the girls is headed to Peru to train for mountaineering in Nepal, and everyone else is doing some portion of the Colorado Trail. I'm gonna head to bed for an early morning. Night!  
-Distance: 50ishConsumption:Freeze dried bananasKind barCliff barHi chewsGatoradeSandwichChai teaCinnamon rollBurgerFriesLemonadeLicoriceChips  
+
+
+Distance: 50ish
+
+Consumption:
+- Freeze dried bananas
+- Kind bar
+- Cliff bar
+- Hi chews
+- Gatorade
+- Sandwich
+- Chai tea
+- Cinnamon roll
+- Burger
+- Fries
+- Lemonade
+- Licorice
+- Chips
 

@@ -37,5 +37,22 @@ I crossed the junction of the South and Middle forks of the Holston River, meani
   
 I took my helmet off (which I shouldn't have done) and rode with it off for the first time in 2 months. That was super nice, if not slightly dangerous. I stopped a picnic spot by the river and enjoyed some food and watched a turtle swim around.   
 The path was moderately busy and there were plenty of other cyclists riding, though none touring. I said hi to everyone. Eventually I pulled into Damascus and headed for a hostel I'd called ahead for, Crazy Larry's. He said $40 for a room which is steep, but whatever, I'm already paying for another room in a different city 40 miles away. He was a character, but the ac isn't working. That's unfortunate because even now at 9:30 it's hot. I headed to a restaurant, Trails Restaurant and got a pulled pork sandwich, salad, and a bunch of cokes. A were excellent. Banana pie for desert capped it off. I left feeling stuffed. I went to a bike shop and got a replacement rear light so that feels good. I relaxed and watched tv in the hostel and just tried to recuperate after the climbing I've been doing. At sunset I went for a walk for snacks and that felt really good, to stretch out my knees. Tomorrow I have the second to last major climb of the entire route and I can't wait. It'll be fun. I'm gonna rest, night!  
-Distance: 40ishConsumption:Kind barOatmealOmeletCliff barGritsCornSweet teaGatoradePulled pork sandwichTotsSaladBanana pieIce creamSodaPayday  
+Distance: 40ish
+
+Consumption:
+- Kind bar
+- Oatmeal
+- Omelet
+- Cliff bar
+- Grits
+- Corn
+- Sweet tea
+- Gatorade
+- Pulled pork sandwich
+- Tots
+- Salad
+- Banana pie
+- Ice cream
+- Soda
+- Payday
 

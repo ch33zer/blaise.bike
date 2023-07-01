@@ -31,4 +31,18 @@ Soon after passing the sawmill I rejoined the road. The going was so slow on the
 [![]({{ site.baseurl }}/assets/1625963226606850-6.png)]({{ site.baseurl }}/assets/1625963226606850-6.png)
   
 I was soon arriving at the RV park. I pulled up and who should I see but the couple from the last week or so! They'd had a hellish day the day before on the bike path from Cambridge to Council and had a short rest day today. We complained about traffic on 95 for a bit then I got checked in. I paid for the site and hot springs. I got unpacked then took a dip in the springs. Somehow despite it being 100+ it was still really nice in the water. I soaked and relaxed and wrote this post next to the pool. I'm gonna make some dinner then get to bed early for an early morning to beat traffic. Night!  
-Distance: 50ishConsumption:3 cliff barsBelvita crackersFig newtonsGatoradeVitamin C packetPulled pork sandwichBeansJalapeno poppersClub sandwichSomething for dinner
+
+Distance: 50ish
+
+Consumption:
+
+* 3 cliff bars
+* Belvita crackers
+* Fig newtons
+* Gatorade
+* Vitamin C packet
+* Pulled pork sandwich
+* Beans
+* Jalapeno poppers
+* Club sandwich
+* Something for dinner

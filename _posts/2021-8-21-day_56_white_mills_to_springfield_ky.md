@@ -40,4 +40,28 @@ I went into a market and a friendly deli attendent made me a sandwich. I also go
   
 I made it to town and went to a McDonald's to use their wifi and figure out my plan. Unfortunately it seems Springfield is a covid hotspot and the McDonald's was take out only. I took my food out to a table outside in the shade and tried to think but ended up just falling asleep for an hour instead. I felt great when I woke up and decided to just call it for the day. There was a park in town as a last resort if I needed it, but I tried calling to different churches to see if any would let me stay there. None answered. I called the motel in town and they said they weren't taking guest for some reason. The park was looking most likely. I swing by the motel just in case and turns out they actually did have a room. The receptionist said both their cleaning people quit this week so they can't rent rooms because they can't clean them. Somehow I got lucky. She also said Paul had tried to get a room there, calling multiple times but there was nothing. I went to my room and talked with some family and did some minor bike work (lube and seat adjustments). I started a load of laundry then headed out for dinner. I went to a place called Mordecai's that had an all you can eat buffet, and it was seafood night. They've made a fatal mistake. I ended up eating two plates of dinner, a salad, and 6 bread rolls. I felt kind of bloated afterwards but damn it was nice to feel full that's tough on this trip. I rode through the park in the hope of finding other cyclists that I could offer my second bed to, but no luck. I grabbed some breakfast for tomorrow then headed back. I finished laundry and got to work on this post.   
 Today was a good day, much better and less scary than yesterday. I think I might continue riding early to beat heat and traffic, but we'll see. Night!  
-Distance: 60ishConsumption:Clif barSausage egg and cheeseOjHoney stingerGatoradeSandwichChicken saladChipsSnack cakeSlusheeSodaWatermelonBig MacFriesSodaSoda water2x plates of seafoodSalad6 rollsMike and ikes
+
+
+Distance: 60ish
+
+Consumption:
+- Clif bar
+- Sausage egg and cheese
+- Oj
+- Honey stinger
+- Gatorade
+- Sandwich
+- Chicken salad
+- Chips
+- Snack cake
+- Slushee
+- Soda
+- Watermelon
+- Big Mac
+- Fries
+- Soda
+- Soda water
+- 2x plates of seafood
+- Salad
+- 6 rolls
+- Mike and ikes

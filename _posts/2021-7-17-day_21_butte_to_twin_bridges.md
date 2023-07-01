@@ -41,4 +41,20 @@ I rode for a bit through the valley then turned right onto 41 towards Twin Bridg
 [![]({{ site.baseurl }}/assets/1626555172894413-10.png)]({{ site.baseurl }}/assets/1626555172894413-10.png)
   
 This valley is apparently called the Jefferson Valley, formed by the Jefferson River and it was really cool to consider that this river will flow to the Atlantic rather than the Pacific. While riding these long straight roads I had a bit of an existential crisis about what I was doing and why, but it passed when I reminded myself that I'm doing it precisely to have an adventure. I took a right turn onto a different stretch of 41 which had a wide shoulder. I followed it for a few miles into the town of Silver Star and tried to buy an ice cream but there was no one there to pay so I left. I had lunch at a small fishing spot by the river. I got back on the road and saw a sign saying 10 miles to Twin Bridges. Yay! Unfortunately those 10 miles had a headwind of 5-10 miles an hour which made it slow going. It took about an hour to get there. The shoulder was good and traffic light though and I didn't mind the flat slow going too much. I rolled into town and stopped for lunch. I got a burger which took forever to cook (a wedding party had arrived just before me) but I just used the time to relax and drink too many iced teas. The food was good, and rejuvenated, I left to find a campsite. I didn't have to go far, the town had Montana's first biker campsite. There were four other riders there hanging out. They were all part of a group going westbound. I got a shower then gave them all the info I had about the fires. They told me a bit about Yellowstone and other parts of the adventure. I took a dip in the river then relaxed in the sun. The other group was going to dinner and asked if I would join. We went to The Shack and got pizza and salads. It was a huge amount of food, probably too much. The food was great and the conversation good though and the time went quickly. I'm posting this right after dinner. Soon I'll head back to camp and have an early night. I've felt sleep deprived the last few nights. Night!  
-Distance: 40ishConsumption:Blueberry pancakes BaconJuiceCliff barTrail mixGatoradeBurgerCookiesFriesIced teaPizzaSaladJalapeno poppers
+
+Distance: 40ish
+
+Consumption:
+- Blueberry pancakes
+- Bacon
+- Juice
+- Cliff bar
+- Trail mix
+- Gatorade
+- Burger
+- Cookies
+- Fries
+- Iced tea
+- Pizza
+- Salad
+- Jalapeno poppers

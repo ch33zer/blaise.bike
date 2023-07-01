@@ -11,4 +11,7 @@ I got a bunch of fried chicken for dinner, and had a chicken sandwich for lunch.
 [![]({{ site.baseurl }}/assets/1628654595880610-0.png)]({{ site.baseurl }}/assets/1628654595880610-0.png)
   
 Night!  
-Distance: 0Consumption:A lot
+
+Distance: 0
+
+Consumption: A lot

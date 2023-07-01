@@ -54,4 +54,20 @@ Eventually I climbed a large hill and saw ahead something I've not really seen s
   
 I passed through the town of Paint Lick (wonderful name) then rode to a busy country road that took me into Berea, end point for the day and the end of map #10 / 12! Two left!  
 I contacted my host for the night, Emily then wandered through a dollar store using the ac and wifi. I got back on a bike path and rode through town to Berea College, where Emily works. She texted me that I could just go into the house. I headed there right as she drove by, and she told me to follow her. I did and pulled up to a beautiful little home. Emily showed me around and truly made me feel at home. She let me cook fresh veggies and rice from her garden, and kept me company and we talked for an hour about a million different things. It was awesome. Soon Dom and Sara, whose blog I've been following for a while, rolled up. They got in then went to get food, Emily left to get groceries and I cleaned up my mess in the kitchen. Everyone came back and we all say around the kitchen table talking about biking and everything else under the sun. Sara and Dom.both quite their jobs to do this ride, and are moving to Colorado when it finishes. Emily is the head baker at the college farm store. We discussed adventures and told stories from the road and overall had a wonderful time. These kind of evenings are my favorite parts of the trip. Emily even let us do laundry so we all out a load in. It's late after talking for a long time, so I need sleep. Night!  
-Distance: 80ishConsumption:2x fruit smoothiesFrosted flakesLemon barSausage egg and cheeseChocolate milkDonutsCinnamon rollCoffee Thai teaSodaEggplant, onions, potato, riceTea
+
+
+Distance: 80ish
+
+Consumption:
+- 2x fruit smoothies
+- Frosted flakes
+- Lemon bar
+- Sausage egg and cheese
+- Chocolate milk
+- Donuts
+- Cinnamon roll
+- Coffee
+- Thai tea
+- Soda
+- Eggplant, onions, potato, rice
+- Tea

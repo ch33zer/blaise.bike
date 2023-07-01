@@ -17,4 +17,17 @@ I decided to double up on cycling shorts to add more padding. That combined with
 [![]({{ site.baseurl }}/assets/1625000568447432-3.png)]({{ site.baseurl }}/assets/1625000568447432-3.png)
   
 On the way there I noticed one of my pedals was incredibly loose. I tried to tighten it but it wouldn't rotate. This likely means a stripped thread which might be bad if I can't get it replaced. But that's a problem for tomorrow. Today was done and overall successful. See you tomorrow!  
-Distance: 50ishConsumption:Leftover turkey sandwich from last nightPoptartsTea2 shot blocksCliff barMnMs2 meat and cheese platters2 gatorades
+
+
+Distance: 50ish
+
+Consumption:
+
+* Leftover turkey sandwich from last night
+* Poptarts
+* Tea
+* 2 shot blocks
+* Cliff bar
+* MnMs
+* 2 meat and cheese platters
+* 2 gatorades

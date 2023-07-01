@@ -26,4 +26,21 @@ I did pass this beautiful field of flowers though. 
 I also passed south of the site of the Sand Creek Massacre, a murder committed by the army on hundreds of Native Americans. There is still a nearby town named after the officer who ordered the attack.   
 I pulled into Sheridan Lake around 4 and got a sparkling water at the convenience store. I tried to find a supposed bike repair shop (or at least a shop that carries bike tools) but couldn't. I went to the church I was staying at and met the pastor, Earlier.  
 He let me shower in the hose and offered me any food in the church kitchen and full use of the facilities. Thank you so much! Apparently theres pancakes for breakfast! I'm gonna get some sleep, night!  
-Distance: 90ishConsumption:Fruity LoopsFrosted FlakesSnickersGatoradeCliff barPlant barHoney and almond butter tortillaCookiesMangosAlfredo pastaOreosProtein shakePeppermint bark
+
+
+Distance: 90ish
+
+Consumption:
+- Fruity Loops
+- Frosted Flakes
+- Snickers
+- Gatorade
+- Cliff bar
+- Plant bar
+- Honey and almond butter tortilla
+- Cookies
+- Mangos
+- Alfredo pasta
+- Oreos
+- Protein shake
+- Peppermint bark

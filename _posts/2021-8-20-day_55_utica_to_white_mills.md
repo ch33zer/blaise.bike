@@ -29,4 +29,21 @@ It was gorgeous in here. 
 There was one insanely steep descent that turned twice, at the bottom of the second turn was a white cross memorializing someone who didn't make it. I'd later find out that he was the driver of a truck who didn't make the turn and got ejected from the truck, then it rolled over him.   
 Traffic stayed thin for a long time, thankfully until I reached a Dollar General in White Mills and texted my host for the night, Chuck. He told me to come on by. Unfortunately that meant another very fast trafficy stretch of road, but only for a mile or two. I pulled up to the volunteer fire department and a man came out of the house next door and introduced himself as Dan. He said he was the second in command and that I could stay at his house or in the fire department. I said his house. As I walked into his property I met his two huge dogs, who were both quite sweet. We went inside and he told me he's still building the house so it's not finished, but there's a couch and a shower. Good enough for me! I got showered then Dan said he was going to get food, and asked if I wanted to join. Of course, so we got in his Tesla (!), in which he demonstrated it's top speed, and drove to get Mexican food in Leitchfield. It was great, then he offered to let me drive home! I warned him that I haven't driven a car in months but he was trusting and we made it home. Rather, almost home. He told me to turn onto a side road and we went out to White Mills Days, one of the towns annual celebrations that I just so happened to arrive for. I got to meet Chuck, the fire chief, and lots of other locals. I talked with Chucks wife and several others about the trip. They had a pedal powered tractor pull that seemed like it was tailor made for me, but it was wrapping up as we arrived. I got food and ice cream and just enjoyed the beautiful night. Dan kept me company which I really appreciated. I went to the bathroom and when I came out saw a fire truck racing out. I found Dan and he told me there was a call for a fire. We raced back to his house in the Tesla and he went into the fire station while I returned home. I kept myself entertained and got to work on this post. Dan came back and said that it was nothing, just a whiff of smoke.  
 I don't know what to do about the traffic here, it's really tough. Maybe I have a lower tolerance than others but knowing that the drivers near you don't value your life makes every car/bike interaction stressful. Maybe I'll feel better after sleep. I'm doing a shorter day tomorrow but am gonna be up early for it. Night.  
-Distance: 80ishConsumption:Bacon egg and cheeseChocolate milkSodaSpicy chicken sandwichChicken tendersFriesSlawIce cream sandwichTaquitosBeansLoaded nachosIce creamLemonade
+
+
+Distance: 80ish
+
+Consumption:
+- Bacon egg and cheese
+- Chocolate milk
+- Soda
+- Spicy chicken sandwich
+- Chicken tenders
+- Fries
+- Slaw
+- Ice cream sandwich
+- Taquitos
+- Beans
+- Loaded nachos
+- Ice cream
+- Lemonade

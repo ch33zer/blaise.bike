@@ -36,5 +36,30 @@ I asked about places to stay and they told me to go back the way I'd come to a p
 [![]({{ site.baseurl }}/assets/1629831800958109-10.png)]({{ site.baseurl }}/assets/1629831800958109-10.png)
   
 Unfortunately I scared the hell out of a couple down there by accidentally sneaking up on them. I felt much more relaxed after the days events after that. I had the dinner that Darrell had given me (more corn, crackers and meat) and am sitting in my tent listening to crickets, the river, and the wind in the trees. It's relaxing. I'm gonna get some sleep. My strategy for traffic tomorrow will be to ride very early, a 4 am wakeup. Night.   
-Distance: 40ishConsumption:Complete cookieBelvitaChai teaSodaJimmy dean sandwichCorn on the cobFamily dollar sausageApplesCherry tomatoesCrackersNaked juiceKombuchaTrail mixIce creamBroccoli friedApplePearSummer sausageCrackersVienna sausageMnMs  
+
+
+Distance: 40ish
+
+Consumption:
+- Complete cookie
+- Belvita
+- Chai tea
+- Soda
+- Jimmy dean sandwich
+- Corn on the cob
+- Family dollar sausage
+- Apples
+- Cherry tomatoes
+- Crackers
+- Naked juice
+- Kombucha
+- Trail mix
+- Ice cream
+- Broccoli fried
+- Apple
+- Pear
+- Summer sausage
+- Crackers
+- Vienna sausage
+- MnMs
 

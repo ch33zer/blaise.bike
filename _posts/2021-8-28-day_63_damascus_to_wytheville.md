@@ -31,4 +31,22 @@ The descent finished a few miles in the town of Troutdale and I pedaled toward i
   
 I pulled into my stopping point for the day, Wytheville, around 3 and got checked in at Red Roof Inn. I went to the room and did nothing for several hours. Then, I went to the town community center and went for a soak in the hot tub and got some reading time. The janitor was super funny and friendly. Then I went and got some Chinese food where the staff were very concerned about me successfully getting the food home on the back of the bike. I managed and enjoyed the food at home watching TV.  
 My mom and I talked on the phone about some of my siblings meeting me in Yorktown. That's when it kind of hit me that I'm only like 1.5 weeks from the end of this entire trip I'm kind of blown away by that. I'm gonna get some sleep for a moment is day tomorrow, on to the final map! Night!  
-Distance: 60ishConsumption:Subway footlongFig barDonutSodaIce cream sandwichSour patch kidsSubway footlongCookiesSodaGeneral tsosChicken fried riceFried bananaSweet teaEgg roll
+
+
+Distance: 60ish
+
+Consumption:
+- Subway footlong
+- Fig bar
+- Donut
+- Soda
+- Ice cream sandwich
+- Sour patch kids
+- Subway footlong
+- Cookies
+- Soda
+- General Tso's
+- Chicken fried rice
+- Fried banana
+- Sweet tea
+- Egg roll

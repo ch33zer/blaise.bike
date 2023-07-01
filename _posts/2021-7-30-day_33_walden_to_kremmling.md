@@ -52,5 +52,20 @@ After that I rode for 20 or so miles at which point the shoulder disappeared. Th
   
 I came inside to plan out my next day (hopefully staying in Breckenridge for a day of mountain biking!) and go write this post. As I'm writing it's pouring outside but I'm in the warm lobby of this wonderful RV park. I'm about to head out there to bed. Night!  
 Edit: I'm sitting in my tent and it's thundering loudly outside. The rain is currently mild, but for a few minutes was very heavy and caused a minor flood, right underneath Rays tent. I helped him move it, and checked that mine wasn't vulnerable to the same flooding.  
-More photos from today: <https://photos.app.goo.gl/zpRNkFVXm9ApdkkTA>Distance: 70ishConsumption:Biscuits and gravyFreeze dried strawberriesKind barGatoradeCliff barPb&j tortillaChocolate raisinsHuge burritoBeef tacoMexican coke   
+More photos from today: <https://photos.app.goo.gl/zpRNkFVXm9ApdkkTA>
+
+Distance: 70ish
+
+Consumption:
+- Biscuits and gravy
+- Freeze dried strawberries
+- Kind bar
+- Gatorade
+- Cliff bar
+- Pb&j tortilla
+- Chocolate raisins
+- Huge burrito
+- Beef taco
+- Mexican coke
+
 

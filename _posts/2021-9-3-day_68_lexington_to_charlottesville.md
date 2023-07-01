@@ -52,4 +52,25 @@ I then continued, eventually getting on 614. This was a busy two lane shoulderle
 [![]({{ site.baseurl }}/assets/1630676870629416-8.png)]({{ site.baseurl }}/assets/1630676870629416-8.png)
   
 The game was a convincing win for UVA and the crowd was super hyped. The other team, the High Point Panthers (I think) goalie got ejected for arguing with a ref. Brian and Shannon were fantastic and fun hosts. I loved chatting with them about the ride, our backgrounds, and life in general. Brian then drove me around Charlottesville to show me the sights. Unfortunately the town was super busy, all the kids from the University where out and there wasn't anywhere to park and sightsee. Instead Brian told me to swing by tomorrow as I rode through. We went back to the house and had some ice cream. I tried writing this post but only got a rough draft done: I passed out halfway through editing it. I finished writing it the next morning, so I guess, good morning! See you in the next one.   
-Distance: 70Consumption:PancakeBananaMuffinJuiceShot blocksCliff barsBeef jerkyGranolaGatoradePeach smoothieLasagnaSaladBreadSkittlesSodaDonutsIce cream
+
+
+Distance: 70
+
+Consumption:
+- Pancake
+- Banana
+- Muffin
+- Juice
+- Shot blocks
+- Cliff bars
+- Beef jerky
+- Granola
+- Gatorade
+- Peach smoothie
+- Lasagna
+- Salad
+- Bread
+- Skittles
+- Soda
+- Donuts
+- Ice cream

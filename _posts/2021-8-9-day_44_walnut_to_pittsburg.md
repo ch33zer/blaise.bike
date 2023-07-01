@@ -15,4 +15,23 @@ I got into town and headed for the bike shop. Unfortunately it's closed Mondays.
 I got checked in at my hotel (Holiday Inn) and immediately took a huge nap. When I woke up it was 5 so I took a shower, got some of still wet gear dried out then got changed to head to the ice cream place, Braums. I went over there, riding through town but didn't see John. I got a burger and banana split, which John had said can't be missed. He was right, it was great, but I was sad I didn't see him.  
 I took a side street back to my hotel and enjoyed the sound of the bugs in the evening shade and cool temperatures. Morning and evening are when Kansas shine.   
 I'm going to go do laundry and hit up the hotel hot tub. Cannot wait for that. Night!  
-Distance: 30Consumption:OatmealDonutsFritterIced teaRibsHot linksSausagePulled porkBreadSaladLemonadeBurgerFriesBanana splitFritos
+
+
+Distance: 30
+
+Consumption:
+- Oatmeal
+- Donuts
+- Fritter
+- Iced tea
+- Ribs
+- Hot links
+- Sausage
+- Pulled pork
+- Bread
+- Salad
+- Lemonade
+- Burger
+- Fries
+- Banana split
+- Fritos

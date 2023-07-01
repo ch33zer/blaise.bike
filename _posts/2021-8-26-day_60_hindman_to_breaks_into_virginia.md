@@ -41,5 +41,31 @@ We came around a corner and I saw the Welcome to Virginia sign in the distance. 
 [![]({{ site.baseurl }}/assets/1629977974153251-11.png)]({{ site.baseurl }}/assets/1629977974153251-11.png)
   
 We got a nice descent, and the rain even let up as we entered the state. Then the rain picked up again and we hit a huge steep climb. It was probably because we were tired but this was a seriously tough climb. The rain didn't make it easier, particularly as the thunder sounded closer and louder. Nick, from a few days ago had a theory that when you enter a new state you get a burst of energy. I don't believe it after today. We finally rounded the top of the climb, rode though a small town, climbed again, and only then did we reach the entrance to the park. And then there was a super steep climb in the park. We basically climbed directly to the lobby. I felt so spent after we went in, it was crazy. I got a bunch of soda and my own room for the night. I got in the shower and it was one of the best of the trip. I was cold and wet and dirty, and I needed to feel clean. I at the bad food I got at the convenience store and drank my sodas and felt much better. I relaxed for a bit then went to Paul's room and planned out tomorrow. 30ish miles and some big climbs but should be somewhat easier, we'll see. Apparently there's another cyclist here. I hope we meet him tomorrow. I need sleep, night!  
-Distance: 70ishConsumption:Bacon egg and cheeseSodaNaked juiceAppleSnickersSodaCarrot cakeReese'sSodaDouble bacon cheeseburgerShakeCheese friesSodaSodaCorn dogPizza stickIce creamSodaFriesChickenFish sandwichesSoda  
+
+
+Distance: 70ish
+
+Consumption:
+- Bacon egg and cheese
+- Soda
+- Naked juice
+- Apple
+- Snickers
+- Soda
+- Carrot cake
+- Reese's
+- Soda
+- Double bacon cheeseburger
+- Shake
+- Cheese fries
+- Soda
+- Soda
+- Corn dog
+- Pizza stick
+- Ice cream
+- Soda
+- Fries
+- Chicken
+- Fish sandwiches
+- Soda
 

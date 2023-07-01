@@ -32,4 +32,6 @@ That just about wraps it up! Let me know if you have any questions!
 Bonus, the hotel has a cat that hangs out and greets guests!
 [![]({{ site.baseurl }}/assets/1630537787035440-5.png)]({{ site.baseurl }}/assets/1630537787035440-5.png)
   
-Distance: 0Consumption:Not as much as I'd expect
+Distance: 0
+
+Consumption:Not as much as I'd expect

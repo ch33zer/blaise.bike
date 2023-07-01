@@ -52,4 +52,21 @@ I booked the cheapest hotel I could (red carpet inn) find then rode through the 
 Unfortunately it started to pour and there was no sign that it would let up, so I left in the pouring rain. It was 2 miles back to the hotel and I was soaked. Near the hotel there's Mexican food so I decided last minute to go for a second dinner there. It was pretty good. I left during a lull in the rain and got back to my room. It soon began to pour even harder, and thunder.   
 <https://youtu.be/U9U1ZwzSkK8>  
 Im now sitting in my room enjoying the sound of rain. I'm planning out tomorrow, given that I need to stick around Blacksburg until the bike shop opens to fix my spoke. It may be a shorter day, we'll see. Night!  
-Distance: 60ishConsumption:BagelCheeriosMuffinHoney bunChocolate milkBreakfast sandwichSmoothieSodaSlusheeIce cream2 massive slices of pizzaSteak a la mexicanaSoda
+
+
+Distance: 60ish
+
+Consumption:
+- Bagel
+- Cheerios
+- Muffin
+- Honey bun
+- Chocolate milk
+- Breakfast sandwich
+- Smoothie
+- Soda
+- Slushee
+- Ice cream
+- 2 massive slices of pizza
+- Steak a la mexicana
+- Soda

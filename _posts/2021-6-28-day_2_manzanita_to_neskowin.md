@@ -39,4 +39,20 @@ There was one bright spot through the suffering, the Pelican Bar which emerged a
   
 Feeling reinvigorated, but still with a sore butt (to the point that I rode the last several miles mostly standing up) I pushed on towards Neskowin.   
 Arriving felt good after the rough day, particularly when I saw the house I was staying with. It was a beautiful beach house right on the water. The owner (hi Nancy!) allows cyclists to camp in the yard. I went swimming in the ocean and climbed a massive rock that was sitting right in front of the beach ([Proposal Rock](https://en.m.wikipedia.org/wiki/Proposal_Rock_(Oregon))). A sandwich from the nearby trading post, some ice cream and some wonderful conversation with the owner and the tenants later and it was time for bed. See you tomorrow!  
-Miles: 70 or soConsumption:2 cliff barsSome trail mixChai teaMuffinSummer sausagePepper jack cheeseBbq burgerFriesMnMsTurkey sandwichMarion berry ice cream2 shot blocks
+
+Miles: 70 or so
+
+Consumption:
+
+* 2 cliff bars
+* Some trail mix
+* Chai tea
+* Muffin
+* Summer sausage
+* Pepper jack cheese
+* Bbq burger
+* Fries
+* MnMs
+* Turkey sandwich
+* Marion berry ice cream
+* 2 shot blocks

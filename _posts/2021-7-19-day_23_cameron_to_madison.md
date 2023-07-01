@@ -60,4 +60,26 @@ Update: made it to Madison campground! The ride was beautiful and mostly unevent
   
 There was one scary incident as I rode along. There was a narrow shoulder and a 6 inch drop off to my right. I wasn't paying as much attention as I should have been and checked my rearview mirror to see if any cars were coming. In that moment I either veered or hit something and went of the pavement into the dirt. Directly in front of me was a large ditch and I braced for a crash. Stunningly the bike didn't go down and rode right over the ditch. I got my foot down and came to a safe stop. The only injury was a bruised palm from the impact of the ditch and a scrape on my inside thigh where it contacted the top tube pump. Could have been sooooo much worse, particularly if a car was coming.   
 I made it to the campground and it's great. It has a store so I even got cold ice cream for desert. There are 3 other bikers here including one on a tricycle going from Orlando to Alaska! I met my first new Eastbounders in a while, Kelley and John. John is taking a different route but I'll probably see Kelley again tomorrow. I think tomorrow I'm going to cross the Continental Divide again, maybe twice. Exciting stuff, but I need an early start to avoid traffic as much as possible. Night!  
-Distance:70ishConsumption: 3 cliff bars4 shot blocksShrimpThai teaIce creamDatesBeef jerkyPork sandwichSodaMac and cheesePopsicleChai teaRice and beansTortillasTaffyCheese curdsMilkIce cream sandwich
+
+
+Distance: 70ish
+
+Consumption:
+- 3 cliff bars
+- 4 shot blocks
+- Shrimp
+- Thai tea
+- Ice cream
+- Dates
+- Beef jerky
+- Pork sandwich
+- Soda
+- Mac and cheese
+- Popsicle
+- Chai tea
+- Rice and beans
+- Tortillas
+- Taffy
+- Cheese curds
+- Milk
+- Ice cream sandwich

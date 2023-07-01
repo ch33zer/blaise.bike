@@ -54,4 +54,29 @@ It wasn't all good, it looked like rain
 We made it to the campground, tired and ready for cold drinks. We found out that there was a convenience store just up the road. Nick went and grabbed snacks as I got set up. He got back and we dug into some drinks and potato chips + dip, a serious treat.   
 We headed over to a swimming hole the camp host had told us about. The water temperature was perfect, cooler than the air but still warm, and there was a rock to jump off. I jumped off a few times and just swam around enjoyed the water. There were guys there doing backflips and gainers into the water which was cool to watch. A few people asked us about the ride, but mostly we just got to relax. After 45 minutes or so we went back to make some dinner. This is my first camp dinner in a while, so I was actually kind of excited. I made potato's, Nick made some Mac and cheese he got from the store. We peppered in a bunch of snacks.   
 We sat around camp doing small chores like route planning and getting ready for bed but we were in no hurry, and it was mostly just relaxing. We had a rain scare of a few drops, but it seems like we may get lucky  Nick headed back to the store and I'm sitting here writing this around 9:45. A raccoon just came up to the picnic table and tried to steal our lantern, not seeing me sitting in the dark on the far side of the table. I scared him off. The fireflies are out, and there's distant lightening, but no thunder. I'm gonna close this out and get some sleep. Night!  
-Distance: 75Consumption:MuffinDanishChobani drinkTeaGatoradeBear clawZero iceGumHam and cheese sandwichPizzaChipsPropelSlushiiSnickersBody armor drinkChips and dipIce cream sandwichTeaMashed potatoesMangoBeef jerky
+
+
+Distance: 75
+
+Consumption:
+- Muffin
+- Danish
+- Chobani drink
+- Tea
+- Gatorade
+- Bear claw
+- Zero ice
+- Gum
+- Ham and cheese sandwich
+- Pizza
+- Chips
+- Propel
+- Slushii
+- Snickers
+- Body armor drink
+- Chips and dip
+- Ice cream sandwich
+- Tea
+- Mashed potatoes
+- Mango
+- Beef jerky

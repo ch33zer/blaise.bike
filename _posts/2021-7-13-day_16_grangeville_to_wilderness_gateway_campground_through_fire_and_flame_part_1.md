@@ -47,4 +47,16 @@ A group of forest service employees got out of the chopper and busted themselves
   
 We made dinner then got to bed ASAP, around 9, though I read my new book for a while.  
 I'll post part two in just a second. Hold your horses.  
-Distance: 80ishConsumption:Huge chai teaBlueberry muffinCan of Arnold PalmerFruit smoothy2 cliff barsRiceTortillasPeachesMnMs
+Distance: 80ish
+
+Consumption:
+
+* Huge chai tea
+* Blueberry muffin
+* Can of Arnold Palmer
+* Fruit smoothy
+* 2 cliff bars
+* Rice
+* Tortillas
+* Peaches
+* MnMs

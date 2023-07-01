@@ -31,5 +31,18 @@ The views were great
 At the bottom I stopped at a convenience store and got a soda and ice cream. A guy walked in with no shirt on and tattoos saying gangsta across his stomach. I didn't talk to him.  
 I got back on the road and made it the few miles further to the shop. The people in there were super friendly and diagnosed the problem as a worn piece that goes around the crank arm shaft. Replacing it seemed to fix the play, and they got it done quickly. The owner told me a safe way to get through town, and gave me a sticker to advertise on the front of my bag. I thanked them and got a move on. The road into town (Roanoke) was busy and with a narrow shoulder, but I soon left it and got on a quieter road paralleling interstate 81. I followed the bike shop guys directions until I turned onto highway 11. This is a super busy 4 lane road and I did not like it. I pulled into a subway to rest and catch my breath. I got a footlong and looked at sleeping options for the night. I felt good, and could keep going, bit it was 4 and I don't like riding past 5 or so. I got a room at a super 8 10 miles further down the road. Unfortunately it was 10 miles on 11, during rush hour. I went slowly and waited for breaks in traffic to proceed. It was not fun riding. I finally got to the end of this segment, which meant that I needed to turn onto another four lane highway to reach my hotel. This section was also a freeway onramp, with traffic merging and exiting and entering, and none of it looking for bikes. I sat for probably 10 minutes trying to figure out the traffic pattern and the best time to go, before deciding that here was no good time to go. There was constantly heavy traffic. I waited for a lull then just said fuck it and got into the center lane (the right lane was a high speed freeway onramp) and rode as fast as I could. A light must have turned green behind me because out of nowhere cars started blasting past me to my left and right. At least they were passing me, not hitting me. I got past the onramp and a shoulder appeared, and my hotel was only 50 feet further. I breathed a sigh of relief. That didn't last long until I noticed more play in the cranks, the play that I thought had been fixed earlier today. Damn, but I'll deal with it tomorrow. I got checked in, took a shower (managing to flood the bathroom in the process) and started some laundry. I'm going to go get some food at a Mexican restaurant soon.  
 I'm gonna leave early and may do a huge day up the Blue Ridge Parkway. More likely I'll leave early and stop in Springfield, 40 miles away. There's the remnants of Hurricane Ida coming through Virginia and there's a flood watch in effect, so rain will be heavy. I want to be somewhere cool for my potential forced rest day as the rain passes. For now, food. Night!  
-Distance: 40Consumption:Bagel with cream cheeseBacon egg and cheese bagelMatcha teaChai teaSodaIce creamFootling turkey sandwichCookiesSoda  
+
+
+Distance: 40
+
+Consumption:
+- Bagel with cream cheese
+- Bacon egg and cheese bagel
+- Matcha tea
+- Chai tea
+- Soda
+- Ice cream
+- Footling turkey sandwich
+- Cookies
+- Soda
 

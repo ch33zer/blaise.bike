@@ -44,4 +44,20 @@ This is my second time over the continental divide. I was taking a break when I 
 [![]({{ site.baseurl }}/assets/1626902823619138-10.png)]({{ site.baseurl }}/assets/1626902823619138-10.png)
   
 I started the rolling descent which was mostly about dodging fast moving traffic. The descent was nice though and as I rounded a corner I got a view of Yellowstone Lake. I didn't stop for a picture but it was huge. After a few more corners I reached the bottom of the descent and rode for a few more flatish miles to Grant Village, my campsite. I got a site and got situated. I went to the post office to mail back some unnecessary items (my old seat and a GoPro I never use) which was only $11 in total. USPS rocks. I got a bison burger at a nearby restaurant (farm raised don't worry) and took it down to the lake to eat on the beach. After eating I laid down and fell asleep for two hours. It was wonderful. When I woke up I took a dip to clean up (showers are present but closed for covid) then went to go do laundry. That's where I am now, and I'll soon head back to camp for dinner and sleep. Again, no service so I can't post this til I get on wifi. Night!  
-Distance: 35ishConsumption:PoptartsCliff barFrench toastChocolate milkPb&jFritosTaffeeBison burgerCheesecakeLemonadePint of cookie dough ice creamDinner
+
+
+Distance: 35ish
+
+Consumption:
+- Poptarts
+- Cliff bar
+- French toast
+- Chocolate milk
+- Pb&j
+- Fritos
+- Taffee
+- Bison burger
+- Cheesecake
+- Lemonade
+- Pint of cookie dough ice cream
+- Dinner

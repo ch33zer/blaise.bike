@@ -29,4 +29,21 @@ It was the hottest part of the day so I decided to wait it out and plan my next 
   
 I came across the couple after a few miles and let them know what I'd found out about camping (not much tbh). We rode together for a bit. I stopped and asked a man on his porch about camping and he said there was free camping up the canyon. We stopped at a small store that the couple had heard about the previous day called Scotty's and got some ice cream. It was delicious. Just a few more miles and we reached the campsite. They offered to split a campsite and I said heck yes. We sat around and are for a bit then went over to the massive snake river and went swimming. I took a shower, made some dinner, then headed to bed, where I'm writing this. Overall it was really fun sharing a campsite with other tourers. They were super nice and even shared dinner with me. I hope we keep riding together for a bit.   
 Anyways I'm exhausted. Goodnight!  
-Distance: 70ishConsumption:Waffle with cream fillingEverything bagelJimmy Dean breakfast sausageMilk cartonTeaWild berry smoothieBurgerSnapplePint of ice creamFritosMashed potatoesVege and bean stew (not mine, the couple offered)MnMs
+
+Distance: 70ish
+
+Consumption:
+
+* Waffle with cream filling
+* Everything bagel
+* Jimmy Dean breakfast sausage
+* Milk carton
+* Tea
+* Wild berry smoothie
+* Burger
+* Snapple
+* Pint of ice cream
+* Fritos
+* Mashed potatoes
+* Vege and bean stew (not mine, the couple offered)
+* MnMs
