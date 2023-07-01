@@ -8,16 +8,13 @@ from markdownify import MarkdownConverter
 import re
 
 pattern = r'(?:https?://)?.*googleusercontent.com.*/([^/]+)'
-repl = r'/assets/\1'
+repl = r'{{ site.baseurl }}/assets/\1'
 class ImageLocalifier(MarkdownConverter):
     def regex_guc(self, el, tagname):
-        print('el before', tagname, el)
         tag_val = el[tagname]
-        print(tag_val)
         if "googleusercontent.com" not in tag_val:
             return
         el[tagname] = re.sub(pattern, repl, tag_val)
-        print('el after', tagname, el)
     def convert_img(self, el, text, convert_as_inline):
         self.regex_guc(el, 'src')
         return super().convert_img(el, text, convert_as_inline)

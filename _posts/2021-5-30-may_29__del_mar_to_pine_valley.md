@@ -39,10 +39,10 @@ Just before getting onto the freeway I ran into an e-biker named Bill loaded up 
 
 From there the route gets off the highway and meanders a bit through the hills, with more climbing, eventually ending in Pine Valley. I saw a US Forest Service sign indicating Lone Pine campground:
 
-[![](/assets/Screen%2BShot%2B2021-05-30%2Bat%2B7.48.17%2BPM.png)](/assets/Screen%2BShot%2B2021-05-30%2Bat%2B7.48.17%2BPM.png)  
+[![]({{ site.baseurl }}/assets/Screen%2BShot%2B2021-05-30%2Bat%2B7.48.17%2BPM.png)]({{ site.baseurl }}/assets/Screen%2BShot%2B2021-05-30%2Bat%2B7.48.17%2BPM.png)  
 I headed down there and set up camp. It was a beautiful little trail, but I didn't see much of it. I stayed off the trail and instead went down a fireroad. There were warnings everywhere that due to it's proximity to the border the trail was used by people smugglers crossing the border. In retaliation someone had put up this sticker:
 
-[![](/assets/image.png)](https://crimethinc.com/stickers/immigrants-welcome)  
+[![]({{ site.baseurl }}/assets/image.png)](https://crimethinc.com/stickers/immigrants-welcome)  
   
 Coming from road riding my pace felt horrendously slow. I don't know if it was or not, but I got frustrated at points with progress. The road surfaces were mostly nice.
 

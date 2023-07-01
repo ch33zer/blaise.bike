@@ -8,7 +8,7 @@ Nothing to report today! I did some errands, like laundry and a visit to the bik
 I have a new companion joining me! Nick, a guy I first met back in Oregon, has been a day or two behind for most of Kansas. I let him know that if he makes it here he can sleep in the spare bed in the hotel room. He put in a huge day and ended up making it so we're gonna ride together tomorrow! Super excited to have a riding buddy. Expect some photos tomorrow.   
 I got a bunch of fried chicken for dinner, and had a chicken sandwich for lunch. The ride to pickup dinner was gorgeous  
 
-[![](/assets/1628654595880610-0.png)](/assets/1628654595880610-0.png)
+[![]({{ site.baseurl }}/assets/1628654595880610-0.png)]({{ site.baseurl }}/assets/1628654595880610-0.png)
   
 Night!  
 Distance: 0Consumption:A lot

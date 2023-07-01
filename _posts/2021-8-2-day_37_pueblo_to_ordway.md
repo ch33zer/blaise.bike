@@ -6,15 +6,15 @@ categories: touring
 ---
 If there's any question, I'm definitely back in flat farmland today  
 
-[![](/assets/1627948742265639-0.png)](/assets/1627948742265639-0.png)
+[![]({{ site.baseurl }}/assets/1627948742265639-0.png)]({{ site.baseurl }}/assets/1627948742265639-0.png)
   
 Shorter uneventful day today, but it's good to have those every now and then. I rolled out of my motel around 6:30 to the mostly empty streets of Pueblo. I'm starting my next map segment which is a great feeling. I rode on city streets for a few miles as the sun rose above the houses. It was cool and pleasant. After a few miles I got onto a high speed 4 lane freeway. There was mostly a shoulder but it was littered with debris. It also sometimes disappeared down to nothing. The traffic wasn't too bad, and this segment was only 10 miles or so.
-[![](/assets/1627948737834665-1.png)](/assets/1627948737834665-1.png)
+[![]({{ site.baseurl }}/assets/1627948737834665-1.png)]({{ site.baseurl }}/assets/1627948737834665-1.png)
   
 Along the way I saw a motorcyclist riding with no hands on the bars which I'd not seen before.   
   
 I was glad when I turned left onto 96, a 2 lane road that I'll be on for 200 miles or so. This road mostly had a shoulder, but it also dwindled down to nothing in places. I wonder why roadbuilders do that. There continued to be sunflowers along the roadway all day. It was beautiful, and I would sometimes stick my hand out and run it over the top of them. In some areas there was a reddish grass I haven't seen before
-[![](/assets/1627948732252800-2.png)](/assets/1627948732252800-2.png)
+[![]({{ site.baseurl }}/assets/1627948732252800-2.png)]({{ site.baseurl }}/assets/1627948732252800-2.png)
   
 As I rode along a truck filled with manure came down the road behind me. It was way overloaded and spilling it's load into the road. It smelled very strongly, but at least none got on me.   
 I stopped at a veteran owned convenience store and saw a business card for [calicocycles.com](http://calicocycles.com), a guy riding across the country with his cat. I got some snacks and asked about the bathroom. The owner told me to just go around back of the store.   

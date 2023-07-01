@@ -6,5 +6,5 @@ categories: touring
 ---
 Passed into Idaho this morning! Full write up tonight  
 
-[![](/assets/1625853673345163-0.png)](/assets/1625853673345163-0.png)
+[![]({{ site.baseurl }}/assets/1625853673345163-0.png)]({{ site.baseurl }}/assets/1625853673345163-0.png)
 
