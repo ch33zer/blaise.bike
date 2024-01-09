@@ -16,6 +16,7 @@ class ImageLocalifier(MarkdownConverter):
             return
         el[tagname] = re.sub(pattern, repl, tag_val)
     def convert_img(self, el, text, convert_as_inline):
+        print(el['src'])
         self.regex_guc(el, 'src')
         return super().convert_img(el, text, convert_as_inline)
     def convert_a(self, el, text, convert_as_inline):
@@ -27,7 +28,7 @@ def md(html, **options):
 
 FILENAME = "/Users/blaise/Downloads/blog-06-30-2023.xml"
 TAG="touring"
-DRY=False
+DRY=True
 feed = atoma.parse_atom_file(FILENAME)
 entries = feed.entries
 
@@ -40,10 +41,12 @@ class MdPosts:
 md_posts = []
 for entry in entries:
     if 'http://schemas.google.com/blogger/2008/kind#post' not in [cat.term for cat in entry.categories]:
-        print("Skipping id", entry.id_)
+        #print("Skipping id", entry.id_)
         continue
-    print("Handling id", entry.id_)
-    md_posts.append(MdPosts(entry.title.value, entry.published if entry.published else entry.updated, entry.content.value))
+    #print("Handling id", entry.id_)
+    if "Lander to Jeffrey City" in entry.title.value:
+        print(entry.title.value)
+        md_posts.append(MdPosts(entry.title.value, entry.published if entry.published else entry.updated, entry.content.value))
 print(f"Found {len(md_posts)} posts")
 
 directory = "converted"
@@ -55,6 +58,8 @@ for post in md_posts:
     post_datestr = f"{post.date.year}-{post.date.month}-{post.date.day}"
     post_filename= f"{post_datestr}-{simple_title}.md"
     print("Handling", post_filename)
+    print(post)
+    print(md(post.content))
     if not DRY:
         outfile = os.path.join(directory, post_filename)
         with open(outfile, "w") as f:

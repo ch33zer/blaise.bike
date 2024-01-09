@@ -5,3 +5,4 @@ _site
 */.DS_Store
 venv/
 .obsidian/
+import/.DS_Store
