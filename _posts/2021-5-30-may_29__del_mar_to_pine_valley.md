@@ -42,7 +42,7 @@ From there the route gets off the highway and meanders a bit through the hills, 
 [![]({{ site.baseurl }}/assets/Screen%20Shot%202021-05-30%20at%207.48.17%20PM.png)]({{ site.baseurl }}/assets/Screen%20Shot%202021-05-30%20at%207.48.17%20PM.png)  
 I headed down there and set up camp. It was a beautiful little trail, but I didn't see much of it. I stayed off the trail and instead went down a fireroad. There were warnings everywhere that due to it's proximity to the border the trail was used by people smugglers crossing the border. In retaliation someone had put up this sticker:
 
-[![]({{ site.baseurl }}/assets/image.png)](https://crimethinc.com/stickers/immigrants-welcome)  
+[![]({{ site.baseurl }}/assets/image(1).png)](https://crimethinc.com/stickers/immigrants-welcome)  
   
 Coming from road riding my pace felt horrendously slow. I don't know if it was or not, but I got frustrated at points with progress. The road surfaces were mostly nice.
 
