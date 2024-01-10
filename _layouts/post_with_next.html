@@ -2,30 +2,26 @@
 layout: post
 ---
 
-{% if page.next %}
-	{% if page.next.url %}
-		{{page.next.title}}&nbsp;<a style="float: right" href="{{page.next.url}}">Next</a>
-	{% endif %}
+<div style="display: flex;">
+{% if page.previous.url %}
+	<a style="margin-right: auto;"href="{{page.previous.url}}">Previous</a>
 {% endif %}
 
-{% if page.previous %}
-	{% if page.previous.url %}
-		{{page.previous.title}}&nbsp;<a href="{{page.previous.url}}">Previous</a>
-	{% endif %}
+{% if page.next.url %}
+	<a style="margin-left: auto;" href="{{page.next.url}}">Next</a>
 {% endif %}
+</div>
 
 <p></p>
 
 {{ content }}
 
-{% if page.next %}
-	{% if page.next.url %}
-		{{page.next.title}}&nbsp;<a style="float: right" href="{{page.next.url}}">Next</a>
-	{% endif %}
+<div style="display: flex;">
+{% if page.previous.url %}
+	<a style="margin-right: auto;"href="{{page.previous.url}}">Previous</a>
 {% endif %}
 
-{% if page.previous %}
-	{% if page.previous.url %}
-		{{page.previous.title}}&nbsp;<a href="{{page.previous.url}}">Previous</a>
-	{% endif %}
+{% if page.next.url %}
+	<a style="margin-left: auto;" href="{{page.next.url}}">Next</a>
 {% endif %}
+</div>
