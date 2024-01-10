@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 61: Breaks to Elk Garden"
 date: 2021-08-27 13:06:00-07:00
 categories: touring

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 43: Toronto to Walnut"
 date: 2021-08-08 19:48:00-07:00
 categories: touring

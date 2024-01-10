@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 15: New Meadows to Grangeville"
 date: 2021-07-11 22:54:00-07:00
 categories: touring

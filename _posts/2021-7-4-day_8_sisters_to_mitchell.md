@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 8: Sisters to Mitchell"
 date: 2021-07-04 22:29:00-07:00
 categories: touring

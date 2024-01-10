@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 46: Pittsburg to Walnut Grove"
 date: 2021-08-12 09:28:00-07:00
 categories: touring

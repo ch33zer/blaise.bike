@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 1: Astoria to Nehalem Bay State Park (near Manzanita)"
 date: 2021-06-27 22:21:00-07:00
 categories: touring

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 37: Pueblo to Ordway"
 date: 2021-08-02 16:59:00-07:00
 categories: touring

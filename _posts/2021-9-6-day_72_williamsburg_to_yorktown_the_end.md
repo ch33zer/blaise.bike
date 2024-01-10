@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 72: Williamsburg to Yorktown. The End!"
 date: 2021-09-06 21:56:00-07:00
 categories: touring

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 47: Walnut Grove to Hartville"
 date: 2021-08-13 05:34:00-07:00
 categories: touring

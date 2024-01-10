@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 10: Mt Vernon to Bates State Park (near Austin Junction)"
 date: 2021-07-07 12:22:00-07:00
 categories: touring

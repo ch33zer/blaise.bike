@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 54: Marion to Utica"
 date: 2021-08-19 20:05:00-07:00
 categories: touring

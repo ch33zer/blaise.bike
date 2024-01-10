@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 11: Austin Junction to Baker City"
 date: 2021-07-07 19:17:00-07:00
 categories: touring

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 25: Grant Village to Colter City (Yellowstone Day 3)"
 date: 2021-07-21 16:00:00-07:00
 categories: touring

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Bonus: Idaho? No Youdaho!"
 date: 2021-07-09 11:01:00-07:00
 categories: touring

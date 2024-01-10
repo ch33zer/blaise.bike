@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 60: Hindman to Breaks (into Virginia!)"
 date: 2021-08-26 04:41:00-07:00
 categories: touring

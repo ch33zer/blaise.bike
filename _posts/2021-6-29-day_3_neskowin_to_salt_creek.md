@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 3: Neskowin to Salt Creek"
 date: 2021-06-29 14:03:00-07:00
 categories: touring

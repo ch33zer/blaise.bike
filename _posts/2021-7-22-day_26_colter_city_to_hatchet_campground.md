@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 26: Colter City to Hatchet Campground"
 date: 2021-07-22 15:49:00-07:00
 categories: touring

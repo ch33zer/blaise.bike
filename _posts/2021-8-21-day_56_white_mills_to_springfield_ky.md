@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 56: White Mills to Springfield, KY"
 date: 2021-08-21 19:12:00-07:00
 categories: touring

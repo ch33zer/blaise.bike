@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 35: Breckenridge to Royal Gorge"
 date: 2021-07-31 20:01:00-07:00
 categories: touring

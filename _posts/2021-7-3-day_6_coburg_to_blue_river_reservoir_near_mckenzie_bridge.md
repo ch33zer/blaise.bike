@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 6: Coburg to Blue River Reservoir (near McKenzie Bridge)"
 date: 2021-07-03 15:25:00-07:00
 categories: touring

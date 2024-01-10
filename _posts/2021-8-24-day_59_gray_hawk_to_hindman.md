@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 59: Gray Hawk to Hindman"
 date: 2021-08-24 19:54:00-07:00
 categories: touring

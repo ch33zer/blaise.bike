@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 24: Madison to Grant Village (Yellowstone Day 2)"
 date: 2021-07-21 14:27:00-07:00
 categories: touring

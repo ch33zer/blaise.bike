@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 20: Flint Creek Campground to Butte"
 date: 2021-07-16 21:50:00-07:00
 categories: touring

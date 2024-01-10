@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 65: Blacksburg to Daleville"
 date: 2021-08-30 16:22:00-07:00
 categories: touring

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 31: Rawlins to Saratoga"
 date: 2021-07-27 20:55:00-07:00
 categories: touring

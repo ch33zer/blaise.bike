@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 32: Saratoga to Walden"
 date: 2021-07-28 16:11:00-07:00
 categories: touring

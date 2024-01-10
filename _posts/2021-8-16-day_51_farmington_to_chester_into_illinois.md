@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 51: Farmington to Chester (into Illinois!)"
 date: 2021-08-16 19:46:00-07:00
 categories: touring

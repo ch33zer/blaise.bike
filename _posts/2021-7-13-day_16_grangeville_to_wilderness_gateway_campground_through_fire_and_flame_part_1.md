@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 16: Grangeville to Wilderness Gateway Campground (through fire and flame part 1)"
 date: 2021-07-13 22:37:00-07:00
 categories: touring

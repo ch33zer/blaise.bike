@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 71: Ashland to Williamsburg"
 date: 2021-09-05 16:35:00-07:00
 categories: touring

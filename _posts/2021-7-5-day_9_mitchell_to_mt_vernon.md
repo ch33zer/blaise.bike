@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 9: Mitchell to Mt Vernon"
 date: 2021-07-05 21:23:00-07:00
 categories: touring

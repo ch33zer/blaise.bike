@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 50: Johnsons Shut Ins State Park to Farmington"
 date: 2021-08-15 20:59:00-07:00
 categories: touring

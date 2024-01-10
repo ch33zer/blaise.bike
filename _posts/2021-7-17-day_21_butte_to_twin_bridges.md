@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 21: Butte to Twin Bridges"
 date: 2021-07-17 18:15:00-07:00
 categories: touring

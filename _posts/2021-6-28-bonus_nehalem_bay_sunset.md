@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Bonus: Nehalem Bay Sunset"
 date: 2021-06-28 21:44:00-07:00
 categories: touring

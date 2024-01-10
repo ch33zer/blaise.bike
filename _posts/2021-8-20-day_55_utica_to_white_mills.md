@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 55: Utica to White Mills"
 date: 2021-08-20 20:26:00-07:00
 categories: touring

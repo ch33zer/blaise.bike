@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 30: Jeffrey City to Rawlins"
 date: 2021-07-26 19:30:00-07:00
 categories: touring

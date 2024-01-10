@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 33: Walden to Kremmling"
 date: 2021-07-30 09:51:00-07:00
 categories: touring

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 52: Chester to Goreville"
 date: 2021-08-17 21:03:00-07:00
 categories: touring

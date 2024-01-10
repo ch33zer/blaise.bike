@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 57: Springfield to Berea"
 date: 2021-08-22 21:10:00-07:00
 categories: touring

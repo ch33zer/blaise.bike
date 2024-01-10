@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 53: Goreville to Marion (into Kentucky!)"
 date: 2021-08-19 04:55:00-07:00
 categories: touring

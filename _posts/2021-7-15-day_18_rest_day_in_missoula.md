@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 18: Rest Day in Missoula"
 date: 2021-07-15 13:05:00-07:00
 categories: touring

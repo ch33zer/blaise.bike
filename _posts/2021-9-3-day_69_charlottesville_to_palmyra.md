@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 69: Charlottesville to Palmyra"
 date: 2021-09-03 16:21:00-07:00
 categories: touring

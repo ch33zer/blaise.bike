@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 19: Missoula to Flint Creek Campground"
 date: 2021-07-16 10:27:00-07:00
 categories: touring

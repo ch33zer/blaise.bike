@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 34: Kremmling to Breckenridge"
 date: 2021-07-30 20:41:00-07:00
 categories: touring

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 23: Cameron to Madison"
 date: 2021-07-19 16:05:00-07:00
 categories: touring

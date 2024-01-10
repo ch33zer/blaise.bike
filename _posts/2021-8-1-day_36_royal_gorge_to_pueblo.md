@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 36: Royal Gorge to Pueblo"
 date: 2021-08-01 20:03:00-07:00
 categories: touring

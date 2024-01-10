@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 5: Salem to Coburg (Back on the Road)"
 date: 2021-07-01 18:05:00-07:00
 categories: touring

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 64: Wytheville to Blacksburg"
 date: 2021-08-29 18:25:00-07:00
 categories: touring

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 28: Dubois to Lander"
 date: 2021-07-24 23:49:00-07:00
 categories: touring

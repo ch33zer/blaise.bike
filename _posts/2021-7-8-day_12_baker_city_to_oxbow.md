@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 12: Baker City to Oxbow"
 date: 2021-07-08 22:53:00-07:00
 categories: touring

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 40: Ness City to Great Bend"
 date: 2021-08-06 12:59:00-07:00
 categories: touring

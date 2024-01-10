@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 14: Cambridge to New Meadows"
 date: 2021-07-10 17:45:00-07:00
 categories: touring

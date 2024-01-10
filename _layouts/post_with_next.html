@@ -1,0 +1,31 @@
+---
+layout: post
+---
+
+{% if page.next %}
+	{% if page.next.url %}
+		{{page.next.title}}&nbsp;<a style="float: right" href="{{page.next.url}}">Next</a>
+	{% endif %}
+{% endif %}
+
+{% if page.previous %}
+	{% if page.previous.url %}
+		{{page.previous.title}}&nbsp;<a href="{{page.previous.url}}">Previous</a>
+	{% endif %}
+{% endif %}
+
+<p></p>
+
+{{ content }}
+
+{% if page.next %}
+	{% if page.next.url %}
+		{{page.next.title}}&nbsp;<a style="float: right" href="{{page.next.url}}">Next</a>
+	{% endif %}
+{% endif %}
+
+{% if page.previous %}
+	{% if page.previous.url %}
+		{{page.previous.title}}&nbsp;<a href="{{page.previous.url}}">Previous</a>
+	{% endif %}
+{% endif %}

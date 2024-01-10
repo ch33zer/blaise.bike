@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Transamerica Trail Retrospective"
 date: 2021-09-12 19:52:00-07:00
 categories: touring

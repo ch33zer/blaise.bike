@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 49: Alley Springs Campground to Johnson's Shut Ins Campground"
 date: 2021-08-15 09:44:00-07:00
 categories: touring

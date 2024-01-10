@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 22: Twin Bridges to Cameron"
 date: 2021-07-18 16:36:00-07:00
 categories: touring

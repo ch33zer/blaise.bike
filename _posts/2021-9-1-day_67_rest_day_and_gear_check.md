@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 67: Rest Day and Gear Check!"
 date: 2021-09-01 16:10:00-07:00
 categories: touring

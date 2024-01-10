@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 58: Berea to Gray Hawk"
 date: 2021-08-24 12:07:00-07:00
 categories: touring

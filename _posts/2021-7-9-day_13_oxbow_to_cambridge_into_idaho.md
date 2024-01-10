@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 13: Oxbow to Cambridge (into Idaho)"
 date: 2021-07-09 19:57:00-07:00
 categories: touring

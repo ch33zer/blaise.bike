@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 17: Wilderness Gateway Campground to Missoula (through fire and flame part 2)"
 date: 2021-07-13 22:42:00-07:00
 categories: touring

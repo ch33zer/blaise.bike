@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 39: Sheridan Lake to Ness City"
 date: 2021-08-05 05:45:00-07:00
 categories: touring

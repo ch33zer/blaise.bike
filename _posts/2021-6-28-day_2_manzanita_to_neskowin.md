@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 2: Manzanita to Neskowin"
 date: 2021-06-28 21:18:00-07:00
 categories: touring

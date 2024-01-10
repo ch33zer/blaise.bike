@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "May 29 - Del Mar to Pine Valley"
 date: 2021-05-30 19:59:00-07:00
 categories: touring

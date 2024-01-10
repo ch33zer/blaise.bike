@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 45: Rest Day in Pittsburg"
 date: 2021-08-10 21:03:00-07:00
 categories: touring

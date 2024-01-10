@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 63: Damascus to Wytheville"
 date: 2021-08-28 19:20:00-07:00
 categories: touring

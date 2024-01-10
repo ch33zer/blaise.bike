@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 7: Blue River Reservoir to Sisters"
 date: 2021-07-03 16:42:00-07:00
 categories: touring

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 48: Hartville to Alley Spring Campground"
 date: 2021-08-14 10:20:00-07:00
 categories: touring

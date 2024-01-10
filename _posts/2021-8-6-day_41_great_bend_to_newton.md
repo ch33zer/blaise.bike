@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_next
 title:  "Day 41: Great Bend to Newton"
 date: 2021-08-06 20:44:00-07:00
 categories: touring
